@@ -1,4 +1,4 @@
-# Le parole contano — montaggio Pride
+# Montaggi Ludarks — motion graphic Pride
 
 Composizione finale: **PrideEdit**, 1080×1920, 60 fps, 6760 fotogrammi.
 
@@ -56,3 +56,20 @@ PYTHONPATH=/workspace/video-assets/align-libs python scripts/align_from_text.py 
 Il bootstrap verifica l’hash del pacchetto dal registro PyPI e omette soltanto il backend Festival, non utilizzato; eSpeak NG è distribuito nel pacchetto dedicato. La voce sintetica interna serve esclusivamente per allineare il testo e non entra nel montaggio. Per una nuova sorgente verificare sempre allineamento, testo e anteprime.
 
 Usare il checkout esistente; non creare worktree per questa lavorazione. Conservare i file dell’utente e verificare sempre il render prima della consegna.
+
+
+## Nuovo video: ipocrisia e responsabilità pubblica
+
+`IpocrisiaEdit`: 1080×1920, 60 fps, 7715 fotogrammi (128,583 s). Sorgente Drive `1NIhVapoigserm70xknx0F9u8IZ_i_g-i`, originale conservato in `/workspace/video-assets/nuovo-02/originale.mov`. Nessun taglio o cambio di velocità al parlato; guadagno voce 0,97 per gestire due lievi overshoot già presenti nella decodifica AAC originale. Nessuna musica. 63 accenti sonori originali.
+
+File specifici: `src/IpocrisiaEdit.tsx`, `src/captions-02.json`, `data/script-02-it.txt`, `data/sound-events-02.json`. `CaseCard`, `DateStamp` e `PublicPrivate` sono componenti riutilizzabili, registrati anche come composizioni modificabili. Il primo montaggio `PrideEdit` resta disponibile.
+
+I media di questo video sono in `public/nuovo02` (ignorati da Git). Le maschere sono limitate ai primi 840 pixel verticali per i soli titoli di sfondo; il modello continua ad analizzare l’intera figura. Generazione:
+
+```bash
+PYTHONPATH=/workspace/video-assets/python-libs python scripts/matte.py --input public/nuovo02/source.mp4 --model /workspace/video-assets/models/rvm.onnx --out public/nuovo02/masks --mask-height 420
+PYTHONPATH=/workspace/video-assets/python-libs python scripts/sound_design.py --events data/sound-events-02.json --duration 128.583333 --out public/nuovo02/sfx
+npx remotion render src/index.ts IpocrisiaEdit out/video-ipocrisia-pride.mp4 --browser-executable=/usr/bin/chromium --codec=h264 --crf=18 --pixel-format=yuv420p --jpeg-quality=95 --concurrency=2
+```
+
+Il testo fornito è allineato localmente con `scripts/align_from_text.py`, 390 parole. I nomi, le date e le schede derivano dal parlato; non sono stati aggiunti ritratti di repertorio o nuove affermazioni fattuali. La precisazione finale contro gli stereotipi e il rispetto dei tempi del coming out sono mantenuti e sottolineati.

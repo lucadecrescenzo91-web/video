@@ -2,7 +2,8 @@ import argparse,json,time
 from pathlib import Path
 import cv2,numpy as np,onnxruntime as ort
 from PIL import Image
-p=argparse.ArgumentParser();p.add_argument('--input',required=True);p.add_argument('--model',required=True);p.add_argument('--out',required=True);a=p.parse_args()
+p=argparse.ArgumentParser();p.add_argument('--input',required=True);p.add_argument('--model',required=True);p.add_argument('--out',required=True);p.add_argument('--mask-height',type=int,default=960);a=p.parse_args()
+if not 1<=a.mask_height<=960:raise ValueError('mask-height must be within 1..960')
 cv2.setNumThreads(1)
 opts=ort.SessionOptions();opts.intra_op_num_threads=2;opts.inter_op_num_threads=1
 s=ort.InferenceSession(a.model,sess_options=opts,providers=['CPUExecutionProvider'])
@@ -18,9 +19,9 @@ while True:
   src=np.transpose(rgb.astype(np.float32)/255,(2,0,1))[None]
   _,pha,*states=s.run(None,dict(src=src,r1i=states[0],r2i=states[1],r3i=states[2],r4i=states[3],downsample_ratio=np.array([.375],np.float32)))
   alpha=np.clip(pha[0,0]*255,0,255).astype(np.uint8)
-  rgba=np.full((960,540,4),255,np.uint8);rgba[:,:,3]=alpha
+  rgba=np.full((a.mask_height,540,4),255,np.uint8);rgba[:,:,3]=alpha[:a.mask_height]
   Image.fromarray(rgba).save(out/f'{j:04}.png',compress_level=2)
-  rgba[:,:,3]=255-alpha
+  rgba[:,:,3]=255-alpha[:a.mask_height]
   Image.fromarray(rgba).save(inverse/f'{j:04}.png',compress_level=2)
   rows=np.where((alpha[:700,80:460]>170).sum(axis=1)>18)[0]
   heads.append(int(rows[0])*2 if len(rows) else 300)
@@ -30,5 +31,5 @@ while True:
   j+=1
   if j%300==0:print(f'{j} masks, {time.time()-start:.1f}s',flush=True)
  i+=1
-cap.release();(out/'metadata.json').write_text(json.dumps({'fps':30,'count':j,'headTop':heads}))
+cap.release();(out/'metadata.json').write_text(json.dumps({'fps':30,'count':j,'maskHeight':a.mask_height*2,'headTop':heads}))
 print(f'Finished {j} masks from {i} frames',flush=True)

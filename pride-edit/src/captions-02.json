@@ -1,0 +1,2732 @@
+[
+  {
+    "text": "Oggi",
+    "startMs": 0,
+    "endMs": 280,
+    "timestampMs": 140,
+    "confidence": null
+  },
+  {
+    "text": " voglio",
+    "startMs": 280,
+    "endMs": 600,
+    "timestampMs": 440,
+    "confidence": null
+  },
+  {
+    "text": " parlare",
+    "startMs": 600,
+    "endMs": 960,
+    "timestampMs": 780,
+    "confidence": null
+  },
+  {
+    "text": " dell’ipocrisia",
+    "startMs": 960,
+    "endMs": 1680,
+    "timestampMs": 1320,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 1680,
+    "endMs": 1760,
+    "timestampMs": 1720,
+    "confidence": null
+  },
+  {
+    "text": " certi",
+    "startMs": 1760,
+    "endMs": 2240,
+    "timestampMs": 2000,
+    "confidence": null
+  },
+  {
+    "text": " omofobi.",
+    "startMs": 2240,
+    "endMs": 2600,
+    "timestampMs": 2420,
+    "confidence": null
+  },
+  {
+    "text": " C’è",
+    "startMs": 2600,
+    "endMs": 2760,
+    "timestampMs": 2680,
+    "confidence": null
+  },
+  {
+    "text": " chi",
+    "startMs": 2760,
+    "endMs": 2840,
+    "timestampMs": 2800,
+    "confidence": null
+  },
+  {
+    "text": " passa",
+    "startMs": 2840,
+    "endMs": 3320,
+    "timestampMs": 3080,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 3320,
+    "endMs": 3440,
+    "timestampMs": 3380,
+    "confidence": null
+  },
+  {
+    "text": " propria",
+    "startMs": 3440,
+    "endMs": 3520,
+    "timestampMs": 3480,
+    "confidence": null
+  },
+  {
+    "text": " vita",
+    "startMs": 3520,
+    "endMs": 3760,
+    "timestampMs": 3640,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 3760,
+    "endMs": 3840,
+    "timestampMs": 3800,
+    "confidence": null
+  },
+  {
+    "text": " puntare",
+    "startMs": 3840,
+    "endMs": 4240,
+    "timestampMs": 4040,
+    "confidence": null
+  },
+  {
+    "text": " il",
+    "startMs": 4240,
+    "endMs": 4440,
+    "timestampMs": 4340,
+    "confidence": null
+  },
+  {
+    "text": " dito",
+    "startMs": 4440,
+    "endMs": 4520,
+    "timestampMs": 4480,
+    "confidence": null
+  },
+  {
+    "text": " contro",
+    "startMs": 4520,
+    "endMs": 4800,
+    "timestampMs": 4660,
+    "confidence": null
+  },
+  {
+    "text": " tutto",
+    "startMs": 4800,
+    "endMs": 4960,
+    "timestampMs": 4880,
+    "confidence": null
+  },
+  {
+    "text": " ciò",
+    "startMs": 4960,
+    "endMs": 5280,
+    "timestampMs": 5120,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 5280,
+    "endMs": 5560,
+    "timestampMs": 5420,
+    "confidence": null
+  },
+  {
+    "text": " diverge",
+    "startMs": 5560,
+    "endMs": 6000,
+    "timestampMs": 5780,
+    "confidence": null
+  },
+  {
+    "text": " dall’eterosessualità",
+    "startMs": 6000,
+    "endMs": 7080,
+    "timestampMs": 6540,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 7080,
+    "endMs": 7240,
+    "timestampMs": 7160,
+    "confidence": null
+  },
+  {
+    "text": " contro",
+    "startMs": 7240,
+    "endMs": 7600,
+    "timestampMs": 7420,
+    "confidence": null
+  },
+  {
+    "text": " chiunque",
+    "startMs": 7600,
+    "endMs": 7800,
+    "timestampMs": 7700,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 7800,
+    "endMs": 8040,
+    "timestampMs": 7920,
+    "confidence": null
+  },
+  {
+    "text": " rientri",
+    "startMs": 8040,
+    "endMs": 8360,
+    "timestampMs": 8200,
+    "confidence": null
+  },
+  {
+    "text": " nello",
+    "startMs": 8360,
+    "endMs": 8840,
+    "timestampMs": 8600,
+    "confidence": null
+  },
+  {
+    "text": " standard",
+    "startMs": 8840,
+    "endMs": 9440,
+    "timestampMs": 9140,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 9440,
+    "endMs": 9560,
+    "timestampMs": 9500,
+    "confidence": null
+  },
+  {
+    "text": " pretende",
+    "startMs": 9560,
+    "endMs": 10080,
+    "timestampMs": 9820,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 10080,
+    "endMs": 10200,
+    "timestampMs": 10140,
+    "confidence": null
+  },
+  {
+    "text": " difendere.",
+    "startMs": 10200,
+    "endMs": 10560,
+    "timestampMs": 10380,
+    "confidence": null
+  },
+  {
+    "text": " E",
+    "startMs": 10560,
+    "endMs": 10800,
+    "timestampMs": 10680,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 10800,
+    "endMs": 11280,
+    "timestampMs": 11040,
+    "confidence": null
+  },
+  {
+    "text": " alcuni",
+    "startMs": 11280,
+    "endMs": 11520,
+    "timestampMs": 11400,
+    "confidence": null
+  },
+  {
+    "text": " casi,",
+    "startMs": 11520,
+    "endMs": 11960,
+    "timestampMs": 11740,
+    "confidence": null
+  },
+  {
+    "text": " proprio",
+    "startMs": 11960,
+    "endMs": 12240,
+    "timestampMs": 12100,
+    "confidence": null
+  },
+  {
+    "text": " queste",
+    "startMs": 12240,
+    "endMs": 12520,
+    "timestampMs": 12380,
+    "confidence": null
+  },
+  {
+    "text": " persone",
+    "startMs": 12520,
+    "endMs": 13000,
+    "timestampMs": 12760,
+    "confidence": null
+  },
+  {
+    "text": " hanno",
+    "startMs": 13000,
+    "endMs": 13080,
+    "timestampMs": 13040,
+    "confidence": null
+  },
+  {
+    "text": " vissuto",
+    "startMs": 13080,
+    "endMs": 13400,
+    "timestampMs": 13240,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 13400,
+    "endMs": 13600,
+    "timestampMs": 13500,
+    "confidence": null
+  },
+  {
+    "text": " segreto",
+    "startMs": 13600,
+    "endMs": 14200,
+    "timestampMs": 13900,
+    "confidence": null
+  },
+  {
+    "text": " esperienze",
+    "startMs": 14200,
+    "endMs": 14880,
+    "timestampMs": 14540,
+    "confidence": null
+  },
+  {
+    "text": " omoerotiche.",
+    "startMs": 14880,
+    "endMs": 15280,
+    "timestampMs": 15080,
+    "confidence": null
+  },
+  {
+    "text": " Ciao,",
+    "startMs": 15280,
+    "endMs": 15640,
+    "timestampMs": 15460,
+    "confidence": null
+  },
+  {
+    "text": " sono",
+    "startMs": 15640,
+    "endMs": 15800,
+    "timestampMs": 15720,
+    "confidence": null
+  },
+  {
+    "text": " Ludarks",
+    "startMs": 15800,
+    "endMs": 16040,
+    "timestampMs": 15920,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 16040,
+    "endMs": 16080,
+    "timestampMs": 16060,
+    "confidence": null
+  },
+  {
+    "text": " ogni",
+    "startMs": 16080,
+    "endMs": 16080,
+    "timestampMs": 16080,
+    "confidence": null
+  },
+  {
+    "text": " giorno",
+    "startMs": 16080,
+    "endMs": 16080,
+    "timestampMs": 16080,
+    "confidence": null
+  },
+  {
+    "text": " ci",
+    "startMs": 16080,
+    "endMs": 16080,
+    "timestampMs": 16080,
+    "confidence": null
+  },
+  {
+    "text": " metto",
+    "startMs": 16080,
+    "endMs": 16400,
+    "timestampMs": 16240,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 16400,
+    "endMs": 16520,
+    "timestampMs": 16460,
+    "confidence": null
+  },
+  {
+    "text": " faccia",
+    "startMs": 16520,
+    "endMs": 16720,
+    "timestampMs": 16620,
+    "confidence": null
+  },
+  {
+    "text": " qui",
+    "startMs": 16720,
+    "endMs": 16800,
+    "timestampMs": 16760,
+    "confidence": null
+  },
+  {
+    "text": " sui",
+    "startMs": 16800,
+    "endMs": 16880,
+    "timestampMs": 16840,
+    "confidence": null
+  },
+  {
+    "text": " social",
+    "startMs": 16880,
+    "endMs": 17120,
+    "timestampMs": 17000,
+    "confidence": null
+  },
+  {
+    "text": " contro",
+    "startMs": 17120,
+    "endMs": 17600,
+    "timestampMs": 17360,
+    "confidence": null
+  },
+  {
+    "text": " l’omofobia.",
+    "startMs": 17600,
+    "endMs": 18040,
+    "timestampMs": 17820,
+    "confidence": null
+  },
+  {
+    "text": " Se",
+    "startMs": 18040,
+    "endMs": 18160,
+    "timestampMs": 18100,
+    "confidence": null
+  },
+  {
+    "text": " ti",
+    "startMs": 18160,
+    "endMs": 18200,
+    "timestampMs": 18180,
+    "confidence": null
+  },
+  {
+    "text": " fa",
+    "startMs": 18200,
+    "endMs": 18360,
+    "timestampMs": 18280,
+    "confidence": null
+  },
+  {
+    "text": " piacere,",
+    "startMs": 18360,
+    "endMs": 18560,
+    "timestampMs": 18460,
+    "confidence": null
+  },
+  {
+    "text": " seguimi",
+    "startMs": 18560,
+    "endMs": 18760,
+    "timestampMs": 18660,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 18760,
+    "endMs": 18920,
+    "timestampMs": 18840,
+    "confidence": null
+  },
+  {
+    "text": " sostieni",
+    "startMs": 18920,
+    "endMs": 19880,
+    "timestampMs": 19400,
+    "confidence": null
+  },
+  {
+    "text": " questo",
+    "startMs": 19880,
+    "endMs": 20280,
+    "timestampMs": 20080,
+    "confidence": null
+  },
+  {
+    "text": " contenuto.",
+    "startMs": 20280,
+    "endMs": 20480,
+    "timestampMs": 20380,
+    "confidence": null
+  },
+  {
+    "text": " Vi",
+    "startMs": 20480,
+    "endMs": 20520,
+    "timestampMs": 20500,
+    "confidence": null
+  },
+  {
+    "text": " cito",
+    "startMs": 20520,
+    "endMs": 21240,
+    "timestampMs": 20880,
+    "confidence": null
+  },
+  {
+    "text": " tre",
+    "startMs": 21240,
+    "endMs": 21520,
+    "timestampMs": 21380,
+    "confidence": null
+  },
+  {
+    "text": " casi",
+    "startMs": 21520,
+    "endMs": 21720,
+    "timestampMs": 21620,
+    "confidence": null
+  },
+  {
+    "text": " celebri.",
+    "startMs": 21720,
+    "endMs": 22000,
+    "timestampMs": 21860,
+    "confidence": null
+  },
+  {
+    "text": " Partiamo",
+    "startMs": 22000,
+    "endMs": 22520,
+    "timestampMs": 22260,
+    "confidence": null
+  },
+  {
+    "text": " da",
+    "startMs": 22520,
+    "endMs": 22760,
+    "timestampMs": 22640,
+    "confidence": null
+  },
+  {
+    "text": " Ted",
+    "startMs": 22760,
+    "endMs": 23040,
+    "timestampMs": 22900,
+    "confidence": null
+  },
+  {
+    "text": " Haggard,",
+    "startMs": 23040,
+    "endMs": 23200,
+    "timestampMs": 23120,
+    "confidence": null
+  },
+  {
+    "text": " pastore",
+    "startMs": 23200,
+    "endMs": 23640,
+    "timestampMs": 23420,
+    "confidence": null
+  },
+  {
+    "text": " statunitense",
+    "startMs": 23640,
+    "endMs": 24400,
+    "timestampMs": 24020,
+    "confidence": null
+  },
+  {
+    "text": " ed",
+    "startMs": 24400,
+    "endMs": 24760,
+    "timestampMs": 24580,
+    "confidence": null
+  },
+  {
+    "text": " ex",
+    "startMs": 24760,
+    "endMs": 24920,
+    "timestampMs": 24840,
+    "confidence": null
+  },
+  {
+    "text": " presidente",
+    "startMs": 24920,
+    "endMs": 25240,
+    "timestampMs": 25080,
+    "confidence": null
+  },
+  {
+    "text": " della",
+    "startMs": 25240,
+    "endMs": 25440,
+    "timestampMs": 25340,
+    "confidence": null
+  },
+  {
+    "text": " National",
+    "startMs": 25440,
+    "endMs": 25840,
+    "timestampMs": 25640,
+    "confidence": null
+  },
+  {
+    "text": " Association",
+    "startMs": 25840,
+    "endMs": 26560,
+    "timestampMs": 26200,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 26560,
+    "endMs": 26880,
+    "timestampMs": 26720,
+    "confidence": null
+  },
+  {
+    "text": " Evangelicals,",
+    "startMs": 26880,
+    "endMs": 27800,
+    "timestampMs": 27340,
+    "confidence": null
+  },
+  {
+    "text": " contrario",
+    "startMs": 27800,
+    "endMs": 28560,
+    "timestampMs": 28180,
+    "confidence": null
+  },
+  {
+    "text": " al",
+    "startMs": 28560,
+    "endMs": 28560,
+    "timestampMs": 28560,
+    "confidence": null
+  },
+  {
+    "text": " matrimonio",
+    "startMs": 28560,
+    "endMs": 29080,
+    "timestampMs": 28820,
+    "confidence": null
+  },
+  {
+    "text": " tra",
+    "startMs": 29080,
+    "endMs": 29240,
+    "timestampMs": 29160,
+    "confidence": null
+  },
+  {
+    "text": " persone",
+    "startMs": 29240,
+    "endMs": 29640,
+    "timestampMs": 29440,
+    "confidence": null
+  },
+  {
+    "text": " dello",
+    "startMs": 29640,
+    "endMs": 29800,
+    "timestampMs": 29720,
+    "confidence": null
+  },
+  {
+    "text": " stesso",
+    "startMs": 29800,
+    "endMs": 30160,
+    "timestampMs": 29980,
+    "confidence": null
+  },
+  {
+    "text": " sesso.",
+    "startMs": 30160,
+    "endMs": 30680,
+    "timestampMs": 30420,
+    "confidence": null
+  },
+  {
+    "text": " Nel",
+    "startMs": 30680,
+    "endMs": 30840,
+    "timestampMs": 30760,
+    "confidence": null
+  },
+  {
+    "text": " 2006,",
+    "startMs": 30840,
+    "endMs": 31440,
+    "timestampMs": 31140,
+    "confidence": null
+  },
+  {
+    "text": " il",
+    "startMs": 31440,
+    "endMs": 31520,
+    "timestampMs": 31480,
+    "confidence": null
+  },
+  {
+    "text": " sex",
+    "startMs": 31520,
+    "endMs": 31920,
+    "timestampMs": 31720,
+    "confidence": null
+  },
+  {
+    "text": " worker",
+    "startMs": 31920,
+    "endMs": 32360,
+    "timestampMs": 32140,
+    "confidence": null
+  },
+  {
+    "text": " Mike",
+    "startMs": 32360,
+    "endMs": 32640,
+    "timestampMs": 32500,
+    "confidence": null
+  },
+  {
+    "text": " Jones",
+    "startMs": 32640,
+    "endMs": 33240,
+    "timestampMs": 32940,
+    "confidence": null
+  },
+  {
+    "text": " raccontò",
+    "startMs": 33240,
+    "endMs": 33400,
+    "timestampMs": 33320,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 33400,
+    "endMs": 33400,
+    "timestampMs": 33400,
+    "confidence": null
+  },
+  {
+    "text": " aver",
+    "startMs": 33400,
+    "endMs": 34120,
+    "timestampMs": 33760,
+    "confidence": null
+  },
+  {
+    "text": " avuto",
+    "startMs": 34120,
+    "endMs": 34480,
+    "timestampMs": 34300,
+    "confidence": null
+  },
+  {
+    "text": " con",
+    "startMs": 34480,
+    "endMs": 34720,
+    "timestampMs": 34600,
+    "confidence": null
+  },
+  {
+    "text": " lui",
+    "startMs": 34720,
+    "endMs": 34960,
+    "timestampMs": 34840,
+    "confidence": null
+  },
+  {
+    "text": " incontri",
+    "startMs": 34960,
+    "endMs": 35080,
+    "timestampMs": 35020,
+    "confidence": null
+  },
+  {
+    "text": " intimi",
+    "startMs": 35080,
+    "endMs": 35320,
+    "timestampMs": 35200,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 35320,
+    "endMs": 35360,
+    "timestampMs": 35340,
+    "confidence": null
+  },
+  {
+    "text": " pagamento.",
+    "startMs": 35360,
+    "endMs": 35840,
+    "timestampMs": 35600,
+    "confidence": null
+  },
+  {
+    "text": " Haggard",
+    "startMs": 35840,
+    "endMs": 36400,
+    "timestampMs": 36120,
+    "confidence": null
+  },
+  {
+    "text": " inizialmente",
+    "startMs": 36400,
+    "endMs": 36960,
+    "timestampMs": 36680,
+    "confidence": null
+  },
+  {
+    "text": " negò,",
+    "startMs": 36960,
+    "endMs": 37400,
+    "timestampMs": 37180,
+    "confidence": null
+  },
+  {
+    "text": " ma",
+    "startMs": 37400,
+    "endMs": 37520,
+    "timestampMs": 37460,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 37520,
+    "endMs": 37560,
+    "timestampMs": 37540,
+    "confidence": null
+  },
+  {
+    "text": " seguito",
+    "startMs": 37560,
+    "endMs": 38080,
+    "timestampMs": 37820,
+    "confidence": null
+  },
+  {
+    "text": " ammise",
+    "startMs": 38080,
+    "endMs": 38480,
+    "timestampMs": 38280,
+    "confidence": null
+  },
+  {
+    "text": " un",
+    "startMs": 38480,
+    "endMs": 38640,
+    "timestampMs": 38560,
+    "confidence": null
+  },
+  {
+    "text": " contatto",
+    "startMs": 38640,
+    "endMs": 39080,
+    "timestampMs": 38860,
+    "confidence": null
+  },
+  {
+    "text": " e,",
+    "startMs": 39080,
+    "endMs": 39200,
+    "timestampMs": 39140,
+    "confidence": null
+  },
+  {
+    "text": " nel",
+    "startMs": 39200,
+    "endMs": 39360,
+    "timestampMs": 39280,
+    "confidence": null
+  },
+  {
+    "text": " 2011,",
+    "startMs": 39360,
+    "endMs": 40040,
+    "timestampMs": 39700,
+    "confidence": null
+  },
+  {
+    "text": " dichiarò",
+    "startMs": 40040,
+    "endMs": 40400,
+    "timestampMs": 40220,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 40400,
+    "endMs": 40560,
+    "timestampMs": 40480,
+    "confidence": null
+  },
+  {
+    "text": " probabilmente",
+    "startMs": 40560,
+    "endMs": 41160,
+    "timestampMs": 40860,
+    "confidence": null
+  },
+  {
+    "text": " si",
+    "startMs": 41160,
+    "endMs": 41240,
+    "timestampMs": 41200,
+    "confidence": null
+  },
+  {
+    "text": " sarebbe",
+    "startMs": 41240,
+    "endMs": 41760,
+    "timestampMs": 41500,
+    "confidence": null
+  },
+  {
+    "text": " definito",
+    "startMs": 41760,
+    "endMs": 42200,
+    "timestampMs": 41980,
+    "confidence": null
+  },
+  {
+    "text": " bisessuale.",
+    "startMs": 42200,
+    "endMs": 42960,
+    "timestampMs": 42580,
+    "confidence": null
+  },
+  {
+    "text": " Il",
+    "startMs": 42960,
+    "endMs": 43120,
+    "timestampMs": 43040,
+    "confidence": null
+  },
+  {
+    "text": " problema",
+    "startMs": 43120,
+    "endMs": 43600,
+    "timestampMs": 43360,
+    "confidence": null
+  },
+  {
+    "text": " era",
+    "startMs": 43600,
+    "endMs": 44000,
+    "timestampMs": 43800,
+    "confidence": null
+  },
+  {
+    "text": " sostenere",
+    "startMs": 44000,
+    "endMs": 44560,
+    "timestampMs": 44280,
+    "confidence": null
+  },
+  {
+    "text": " pubblicamente",
+    "startMs": 44560,
+    "endMs": 45200,
+    "timestampMs": 44880,
+    "confidence": null
+  },
+  {
+    "text": " politiche",
+    "startMs": 45200,
+    "endMs": 45560,
+    "timestampMs": 45380,
+    "confidence": null
+  },
+  {
+    "text": " contro",
+    "startMs": 45560,
+    "endMs": 46000,
+    "timestampMs": 45780,
+    "confidence": null
+  },
+  {
+    "text": " le",
+    "startMs": 46000,
+    "endMs": 46240,
+    "timestampMs": 46120,
+    "confidence": null
+  },
+  {
+    "text": " coppie",
+    "startMs": 46240,
+    "endMs": 46680,
+    "timestampMs": 46460,
+    "confidence": null
+  },
+  {
+    "text": " omosessuali",
+    "startMs": 46680,
+    "endMs": 47360,
+    "timestampMs": 47020,
+    "confidence": null
+  },
+  {
+    "text": " mentre,",
+    "startMs": 47360,
+    "endMs": 47760,
+    "timestampMs": 47560,
+    "confidence": null
+  },
+  {
+    "text": " nel",
+    "startMs": 47760,
+    "endMs": 47920,
+    "timestampMs": 47840,
+    "confidence": null
+  },
+  {
+    "text": " privato,",
+    "startMs": 47920,
+    "endMs": 48440,
+    "timestampMs": 48180,
+    "confidence": null
+  },
+  {
+    "text": " viveva",
+    "startMs": 48440,
+    "endMs": 48680,
+    "timestampMs": 48560,
+    "confidence": null
+  },
+  {
+    "text": " esperienze",
+    "startMs": 48680,
+    "endMs": 49320,
+    "timestampMs": 49000,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 49320,
+    "endMs": 49400,
+    "timestampMs": 49360,
+    "confidence": null
+  },
+  {
+    "text": " questo",
+    "startMs": 49400,
+    "endMs": 49680,
+    "timestampMs": 49540,
+    "confidence": null
+  },
+  {
+    "text": " tipo.",
+    "startMs": 49680,
+    "endMs": 49960,
+    "timestampMs": 49820,
+    "confidence": null
+  },
+  {
+    "text": " Poi",
+    "startMs": 49960,
+    "endMs": 50600,
+    "timestampMs": 50280,
+    "confidence": null
+  },
+  {
+    "text": " c’è",
+    "startMs": 50600,
+    "endMs": 50920,
+    "timestampMs": 50760,
+    "confidence": null
+  },
+  {
+    "text": " József",
+    "startMs": 50920,
+    "endMs": 51240,
+    "timestampMs": 51080,
+    "confidence": null
+  },
+  {
+    "text": " Szájer,",
+    "startMs": 51240,
+    "endMs": 51880,
+    "timestampMs": 51560,
+    "confidence": null
+  },
+  {
+    "text": " eurodeputato",
+    "startMs": 51880,
+    "endMs": 52640,
+    "timestampMs": 52260,
+    "confidence": null
+  },
+  {
+    "text": " ungherese.",
+    "startMs": 52640,
+    "endMs": 53120,
+    "timestampMs": 52880,
+    "confidence": null
+  },
+  {
+    "text": " Nel",
+    "startMs": 53120,
+    "endMs": 53280,
+    "timestampMs": 53200,
+    "confidence": null
+  },
+  {
+    "text": " novembre",
+    "startMs": 53280,
+    "endMs": 53680,
+    "timestampMs": 53480,
+    "confidence": null
+  },
+  {
+    "text": " 2020",
+    "startMs": 53680,
+    "endMs": 54280,
+    "timestampMs": 53980,
+    "confidence": null
+  },
+  {
+    "text": " partecipò",
+    "startMs": 54280,
+    "endMs": 54840,
+    "timestampMs": 54560,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 54840,
+    "endMs": 54920,
+    "timestampMs": 54880,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 54920,
+    "endMs": 54920,
+    "timestampMs": 54920,
+    "confidence": null
+  },
+  {
+    "text": " festa",
+    "startMs": 54920,
+    "endMs": 55360,
+    "timestampMs": 55140,
+    "confidence": null
+  },
+  {
+    "text": " esplicita",
+    "startMs": 55360,
+    "endMs": 55920,
+    "timestampMs": 55640,
+    "confidence": null
+  },
+  {
+    "text": " tra",
+    "startMs": 55920,
+    "endMs": 56160,
+    "timestampMs": 56040,
+    "confidence": null
+  },
+  {
+    "text": " uomini",
+    "startMs": 56160,
+    "endMs": 56520,
+    "timestampMs": 56340,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 56520,
+    "endMs": 56560,
+    "timestampMs": 56540,
+    "confidence": null
+  },
+  {
+    "text": " Bruxelles,",
+    "startMs": 56560,
+    "endMs": 57080,
+    "timestampMs": 56820,
+    "confidence": null
+  },
+  {
+    "text": " violando",
+    "startMs": 57080,
+    "endMs": 57400,
+    "timestampMs": 57240,
+    "confidence": null
+  },
+  {
+    "text": " le",
+    "startMs": 57400,
+    "endMs": 57600,
+    "timestampMs": 57500,
+    "confidence": null
+  },
+  {
+    "text": " restrizioni",
+    "startMs": 57600,
+    "endMs": 58360,
+    "timestampMs": 57980,
+    "confidence": null
+  },
+  {
+    "text": " anti-Covid.",
+    "startMs": 58360,
+    "endMs": 58840,
+    "timestampMs": 58600,
+    "confidence": null
+  },
+  {
+    "text": " Lo",
+    "startMs": 58840,
+    "endMs": 59120,
+    "timestampMs": 58980,
+    "confidence": null
+  },
+  {
+    "text": " ammise",
+    "startMs": 59120,
+    "endMs": 59560,
+    "timestampMs": 59340,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 59560,
+    "endMs": 59640,
+    "timestampMs": 59600,
+    "confidence": null
+  },
+  {
+    "text": " si",
+    "startMs": 59640,
+    "endMs": 59840,
+    "timestampMs": 59740,
+    "confidence": null
+  },
+  {
+    "text": " dimise",
+    "startMs": 59840,
+    "endMs": 60120,
+    "timestampMs": 59980,
+    "confidence": null
+  },
+  {
+    "text": " dal",
+    "startMs": 60120,
+    "endMs": 60320,
+    "timestampMs": 60220,
+    "confidence": null
+  },
+  {
+    "text": " Parlamento",
+    "startMs": 60320,
+    "endMs": 60720,
+    "timestampMs": 60520,
+    "confidence": null
+  },
+  {
+    "text": " europeo.",
+    "startMs": 60720,
+    "endMs": 61240,
+    "timestampMs": 60980,
+    "confidence": null
+  },
+  {
+    "text": " Szájer",
+    "startMs": 61240,
+    "endMs": 61760,
+    "timestampMs": 61500,
+    "confidence": null
+  },
+  {
+    "text": " era",
+    "startMs": 61760,
+    "endMs": 62080,
+    "timestampMs": 61920,
+    "confidence": null
+  },
+  {
+    "text": " legato",
+    "startMs": 62080,
+    "endMs": 62360,
+    "timestampMs": 62220,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 62360,
+    "endMs": 62440,
+    "timestampMs": 62400,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 62440,
+    "endMs": 62440,
+    "timestampMs": 62440,
+    "confidence": null
+  },
+  {
+    "text": " forza",
+    "startMs": 62440,
+    "endMs": 62760,
+    "timestampMs": 62600,
+    "confidence": null
+  },
+  {
+    "text": " politica",
+    "startMs": 62760,
+    "endMs": 63000,
+    "timestampMs": 62880,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 63000,
+    "endMs": 63000,
+    "timestampMs": 63000,
+    "confidence": null
+  },
+  {
+    "text": " aveva",
+    "startMs": 63000,
+    "endMs": 63360,
+    "timestampMs": 63180,
+    "confidence": null
+  },
+  {
+    "text": " promosso",
+    "startMs": 63360,
+    "endMs": 64120,
+    "timestampMs": 63740,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 64120,
+    "endMs": 64120,
+    "timestampMs": 64120,
+    "confidence": null
+  },
+  {
+    "text": " Costituzione",
+    "startMs": 64120,
+    "endMs": 64760,
+    "timestampMs": 64440,
+    "confidence": null
+  },
+  {
+    "text": " definita",
+    "startMs": 64760,
+    "endMs": 65440,
+    "timestampMs": 65100,
+    "confidence": null
+  },
+  {
+    "text": " intorno",
+    "startMs": 65440,
+    "endMs": 66040,
+    "timestampMs": 65740,
+    "confidence": null
+  },
+  {
+    "text": " al",
+    "startMs": 66040,
+    "endMs": 66320,
+    "timestampMs": 66180,
+    "confidence": null
+  },
+  {
+    "text": " matrimonio",
+    "startMs": 66320,
+    "endMs": 66680,
+    "timestampMs": 66500,
+    "confidence": null
+  },
+  {
+    "text": " tra",
+    "startMs": 66680,
+    "endMs": 66880,
+    "timestampMs": 66780,
+    "confidence": null
+  },
+  {
+    "text": " un",
+    "startMs": 66880,
+    "endMs": 67080,
+    "timestampMs": 66980,
+    "confidence": null
+  },
+  {
+    "text": " uomo",
+    "startMs": 67080,
+    "endMs": 67240,
+    "timestampMs": 67160,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 67240,
+    "endMs": 67400,
+    "timestampMs": 67320,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 67400,
+    "endMs": 67520,
+    "timestampMs": 67460,
+    "confidence": null
+  },
+  {
+    "text": " donna.",
+    "startMs": 67520,
+    "endMs": 67920,
+    "timestampMs": 67720,
+    "confidence": null
+  },
+  {
+    "text": " Dimostra",
+    "startMs": 67920,
+    "endMs": 68520,
+    "timestampMs": 68220,
+    "confidence": null
+  },
+  {
+    "text": " quindi",
+    "startMs": 68520,
+    "endMs": 68960,
+    "timestampMs": 68740,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 68960,
+    "endMs": 69440,
+    "timestampMs": 69200,
+    "confidence": null
+  },
+  {
+    "text": " contraddizione",
+    "startMs": 69440,
+    "endMs": 70200,
+    "timestampMs": 69820,
+    "confidence": null
+  },
+  {
+    "text": " tra",
+    "startMs": 70200,
+    "endMs": 70320,
+    "timestampMs": 70260,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 70320,
+    "endMs": 70600,
+    "timestampMs": 70460,
+    "confidence": null
+  },
+  {
+    "text": " politica",
+    "startMs": 70600,
+    "endMs": 70840,
+    "timestampMs": 70720,
+    "confidence": null
+  },
+  {
+    "text": " sostenuta",
+    "startMs": 70840,
+    "endMs": 71560,
+    "timestampMs": 71200,
+    "confidence": null
+  },
+  {
+    "text": " pubblicamente",
+    "startMs": 71560,
+    "endMs": 72200,
+    "timestampMs": 71880,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 72200,
+    "endMs": 72360,
+    "timestampMs": 72280,
+    "confidence": null
+  },
+  {
+    "text": " il",
+    "startMs": 72360,
+    "endMs": 72600,
+    "timestampMs": 72480,
+    "confidence": null
+  },
+  {
+    "text": " comportamento",
+    "startMs": 72600,
+    "endMs": 73320,
+    "timestampMs": 72960,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 73320,
+    "endMs": 73600,
+    "timestampMs": 73460,
+    "confidence": null
+  },
+  {
+    "text": " lui",
+    "startMs": 73600,
+    "endMs": 73760,
+    "timestampMs": 73680,
+    "confidence": null
+  },
+  {
+    "text": " stesso",
+    "startMs": 73760,
+    "endMs": 74200,
+    "timestampMs": 73980,
+    "confidence": null
+  },
+  {
+    "text": " ha",
+    "startMs": 74200,
+    "endMs": 74400,
+    "timestampMs": 74300,
+    "confidence": null
+  },
+  {
+    "text": " ammesso.",
+    "startMs": 74400,
+    "endMs": 74880,
+    "timestampMs": 74640,
+    "confidence": null
+  },
+  {
+    "text": " Il",
+    "startMs": 74880,
+    "endMs": 75080,
+    "timestampMs": 74980,
+    "confidence": null
+  },
+  {
+    "text": " terzo",
+    "startMs": 75080,
+    "endMs": 75400,
+    "timestampMs": 75240,
+    "confidence": null
+  },
+  {
+    "text": " caso",
+    "startMs": 75400,
+    "endMs": 75760,
+    "timestampMs": 75580,
+    "confidence": null
+  },
+  {
+    "text": " è",
+    "startMs": 75760,
+    "endMs": 75760,
+    "timestampMs": 75760,
+    "confidence": null
+  },
+  {
+    "text": " John",
+    "startMs": 75760,
+    "endMs": 76120,
+    "timestampMs": 75940,
+    "confidence": null
+  },
+  {
+    "text": " Paulk,",
+    "startMs": 76120,
+    "endMs": 76560,
+    "timestampMs": 76340,
+    "confidence": null
+  },
+  {
+    "text": " per",
+    "startMs": 76560,
+    "endMs": 77040,
+    "timestampMs": 76800,
+    "confidence": null
+  },
+  {
+    "text": " anni",
+    "startMs": 77040,
+    "endMs": 77280,
+    "timestampMs": 77160,
+    "confidence": null
+  },
+  {
+    "text": " uno",
+    "startMs": 77280,
+    "endMs": 77520,
+    "timestampMs": 77400,
+    "confidence": null
+  },
+  {
+    "text": " dei",
+    "startMs": 77520,
+    "endMs": 77640,
+    "timestampMs": 77580,
+    "confidence": null
+  },
+  {
+    "text": " volti",
+    "startMs": 77640,
+    "endMs": 77680,
+    "timestampMs": 77660,
+    "confidence": null
+  },
+  {
+    "text": " più",
+    "startMs": 77680,
+    "endMs": 77840,
+    "timestampMs": 77760,
+    "confidence": null
+  },
+  {
+    "text": " noti",
+    "startMs": 77840,
+    "endMs": 78160,
+    "timestampMs": 78000,
+    "confidence": null
+  },
+  {
+    "text": " del",
+    "startMs": 78160,
+    "endMs": 78280,
+    "timestampMs": 78220,
+    "confidence": null
+  },
+  {
+    "text": " movimento",
+    "startMs": 78280,
+    "endMs": 78760,
+    "timestampMs": 78520,
+    "confidence": null
+  },
+  {
+    "text": " cristiano",
+    "startMs": 78760,
+    "endMs": 79320,
+    "timestampMs": 79040,
+    "confidence": null
+  },
+  {
+    "text": " “ex",
+    "startMs": 79320,
+    "endMs": 79720,
+    "timestampMs": 79520,
+    "confidence": null
+  },
+  {
+    "text": " gay”.",
+    "startMs": 79720,
+    "endMs": 80080,
+    "timestampMs": 79900,
+    "confidence": null
+  },
+  {
+    "text": " Promuoveva",
+    "startMs": 80080,
+    "endMs": 80720,
+    "timestampMs": 80400,
+    "confidence": null
+  },
+  {
+    "text": " l’idea",
+    "startMs": 80720,
+    "endMs": 80960,
+    "timestampMs": 80840,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 80960,
+    "endMs": 80960,
+    "timestampMs": 80960,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 80960,
+    "endMs": 81160,
+    "timestampMs": 81060,
+    "confidence": null
+  },
+  {
+    "text": " fede",
+    "startMs": 81160,
+    "endMs": 81400,
+    "timestampMs": 81280,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 81400,
+    "endMs": 81760,
+    "timestampMs": 81580,
+    "confidence": null
+  },
+  {
+    "text": " le",
+    "startMs": 81760,
+    "endMs": 81760,
+    "timestampMs": 81760,
+    "confidence": null
+  },
+  {
+    "text": " cosiddette",
+    "startMs": 81760,
+    "endMs": 82280,
+    "timestampMs": 82020,
+    "confidence": null
+  },
+  {
+    "text": " terapie",
+    "startMs": 82280,
+    "endMs": 82680,
+    "timestampMs": 82480,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 82680,
+    "endMs": 82760,
+    "timestampMs": 82720,
+    "confidence": null
+  },
+  {
+    "text": " conversione",
+    "startMs": 82760,
+    "endMs": 83360,
+    "timestampMs": 83060,
+    "confidence": null
+  },
+  {
+    "text": " potessero",
+    "startMs": 83360,
+    "endMs": 84080,
+    "timestampMs": 83720,
+    "confidence": null
+  },
+  {
+    "text": " rendere",
+    "startMs": 84080,
+    "endMs": 84320,
+    "timestampMs": 84200,
+    "confidence": null
+  },
+  {
+    "text": " eterosessuali",
+    "startMs": 84320,
+    "endMs": 85160,
+    "timestampMs": 84740,
+    "confidence": null
+  },
+  {
+    "text": " le",
+    "startMs": 85160,
+    "endMs": 85240,
+    "timestampMs": 85200,
+    "confidence": null
+  },
+  {
+    "text": " persone",
+    "startMs": 85240,
+    "endMs": 85560,
+    "timestampMs": 85400,
+    "confidence": null
+  },
+  {
+    "text": " gay.",
+    "startMs": 85560,
+    "endMs": 86000,
+    "timestampMs": 85780,
+    "confidence": null
+  },
+  {
+    "text": " Veniva",
+    "startMs": 86000,
+    "endMs": 86320,
+    "timestampMs": 86160,
+    "confidence": null
+  },
+  {
+    "text": " presentato",
+    "startMs": 86320,
+    "endMs": 86800,
+    "timestampMs": 86560,
+    "confidence": null
+  },
+  {
+    "text": " lui",
+    "startMs": 86800,
+    "endMs": 87040,
+    "timestampMs": 86920,
+    "confidence": null
+  },
+  {
+    "text": " stesso",
+    "startMs": 87040,
+    "endMs": 87680,
+    "timestampMs": 87360,
+    "confidence": null
+  },
+  {
+    "text": " come",
+    "startMs": 87680,
+    "endMs": 87680,
+    "timestampMs": 87680,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 87680,
+    "endMs": 87880,
+    "timestampMs": 87780,
+    "confidence": null
+  },
+  {
+    "text": " prova",
+    "startMs": 87880,
+    "endMs": 88200,
+    "timestampMs": 88040,
+    "confidence": null
+  },
+  {
+    "text": " vivente",
+    "startMs": 88200,
+    "endMs": 88440,
+    "timestampMs": 88320,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 88440,
+    "endMs": 88560,
+    "timestampMs": 88500,
+    "confidence": null
+  },
+  {
+    "text": " fosse",
+    "startMs": 88560,
+    "endMs": 89000,
+    "timestampMs": 88780,
+    "confidence": null
+  },
+  {
+    "text": " possibile.",
+    "startMs": 89000,
+    "endMs": 89360,
+    "timestampMs": 89180,
+    "confidence": null
+  },
+  {
+    "text": " Poi",
+    "startMs": 89360,
+    "endMs": 89600,
+    "timestampMs": 89480,
+    "confidence": null
+  },
+  {
+    "text": " ha",
+    "startMs": 89600,
+    "endMs": 89920,
+    "timestampMs": 89760,
+    "confidence": null
+  },
+  {
+    "text": " riconosciuto",
+    "startMs": 89920,
+    "endMs": 90560,
+    "timestampMs": 90240,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 90560,
+    "endMs": 90960,
+    "timestampMs": 90760,
+    "confidence": null
+  },
+  {
+    "text": " il",
+    "startMs": 90960,
+    "endMs": 91000,
+    "timestampMs": 90980,
+    "confidence": null
+  },
+  {
+    "text": " suo",
+    "startMs": 91000,
+    "endMs": 91120,
+    "timestampMs": 91060,
+    "confidence": null
+  },
+  {
+    "text": " orientamento",
+    "startMs": 91120,
+    "endMs": 91280,
+    "timestampMs": 91200,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 91280,
+    "endMs": 91440,
+    "timestampMs": 91360,
+    "confidence": null
+  },
+  {
+    "text": " era",
+    "startMs": 91440,
+    "endMs": 92000,
+    "timestampMs": 91720,
+    "confidence": null
+  },
+  {
+    "text": " realmente",
+    "startMs": 92000,
+    "endMs": 92200,
+    "timestampMs": 92100,
+    "confidence": null
+  },
+  {
+    "text": " cambiato",
+    "startMs": 92200,
+    "endMs": 92960,
+    "timestampMs": 92580,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 92960,
+    "endMs": 93080,
+    "timestampMs": 93020,
+    "confidence": null
+  },
+  {
+    "text": " nel",
+    "startMs": 93080,
+    "endMs": 93240,
+    "timestampMs": 93160,
+    "confidence": null
+  },
+  {
+    "text": " 2013",
+    "startMs": 93240,
+    "endMs": 93960,
+    "timestampMs": 93600,
+    "confidence": null
+  },
+  {
+    "text": " ha",
+    "startMs": 93960,
+    "endMs": 94200,
+    "timestampMs": 94080,
+    "confidence": null
+  },
+  {
+    "text": " rinnegato",
+    "startMs": 94200,
+    "endMs": 94560,
+    "timestampMs": 94380,
+    "confidence": null
+  },
+  {
+    "text": " quelle",
+    "startMs": 94560,
+    "endMs": 94800,
+    "timestampMs": 94680,
+    "confidence": null
+  },
+  {
+    "text": " pratiche",
+    "startMs": 94800,
+    "endMs": 95160,
+    "timestampMs": 94980,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 95160,
+    "endMs": 95280,
+    "timestampMs": 95220,
+    "confidence": null
+  },
+  {
+    "text": " chiesto",
+    "startMs": 95280,
+    "endMs": 95680,
+    "timestampMs": 95480,
+    "confidence": null
+  },
+  {
+    "text": " scusa",
+    "startMs": 95680,
+    "endMs": 95800,
+    "timestampMs": 95740,
+    "confidence": null
+  },
+  {
+    "text": " alle",
+    "startMs": 95800,
+    "endMs": 96040,
+    "timestampMs": 95920,
+    "confidence": null
+  },
+  {
+    "text": " persone",
+    "startMs": 96040,
+    "endMs": 96440,
+    "timestampMs": 96240,
+    "confidence": null
+  },
+  {
+    "text": " danneggiate",
+    "startMs": 96440,
+    "endMs": 96680,
+    "timestampMs": 96560,
+    "confidence": null
+  },
+  {
+    "text": " dai",
+    "startMs": 96680,
+    "endMs": 97000,
+    "timestampMs": 96840,
+    "confidence": null
+  },
+  {
+    "text": " suoi",
+    "startMs": 97000,
+    "endMs": 97280,
+    "timestampMs": 97140,
+    "confidence": null
+  },
+  {
+    "text": " messaggi.",
+    "startMs": 97280,
+    "endMs": 97880,
+    "timestampMs": 97580,
+    "confidence": null
+  },
+  {
+    "text": " E",
+    "startMs": 97880,
+    "endMs": 97960,
+    "timestampMs": 97920,
+    "confidence": null
+  },
+  {
+    "text": " meno",
+    "startMs": 97960,
+    "endMs": 98200,
+    "timestampMs": 98080,
+    "confidence": null
+  },
+  {
+    "text": " male.",
+    "startMs": 98200,
+    "endMs": 98640,
+    "timestampMs": 98420,
+    "confidence": null
+  },
+  {
+    "text": " Perché",
+    "startMs": 98640,
+    "endMs": 99040,
+    "timestampMs": 98840,
+    "confidence": null
+  },
+  {
+    "text": " il",
+    "startMs": 99040,
+    "endMs": 99240,
+    "timestampMs": 99140,
+    "confidence": null
+  },
+  {
+    "text": " messaggio",
+    "startMs": 99240,
+    "endMs": 99880,
+    "timestampMs": 99560,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 99880,
+    "endMs": 99880,
+    "timestampMs": 99880,
+    "confidence": null
+  },
+  {
+    "text": " quelle",
+    "startMs": 99880,
+    "endMs": 100480,
+    "timestampMs": 100180,
+    "confidence": null
+  },
+  {
+    "text": " campagne",
+    "startMs": 100480,
+    "endMs": 101080,
+    "timestampMs": 100780,
+    "confidence": null
+  },
+  {
+    "text": " era:",
+    "startMs": 101080,
+    "endMs": 101400,
+    "timestampMs": 101240,
+    "confidence": null
+  },
+  {
+    "text": " “Io",
+    "startMs": 101400,
+    "endMs": 101440,
+    "timestampMs": 101420,
+    "confidence": null
+  },
+  {
+    "text": " sono",
+    "startMs": 101440,
+    "endMs": 101800,
+    "timestampMs": 101620,
+    "confidence": null
+  },
+  {
+    "text": " cambiato;",
+    "startMs": 101800,
+    "endMs": 102280,
+    "timestampMs": 102040,
+    "confidence": null
+  },
+  {
+    "text": " se",
+    "startMs": 102280,
+    "endMs": 102600,
+    "timestampMs": 102440,
+    "confidence": null
+  },
+  {
+    "text": " tu",
+    "startMs": 102600,
+    "endMs": 102600,
+    "timestampMs": 102600,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 102600,
+    "endMs": 102600,
+    "timestampMs": 102600,
+    "confidence": null
+  },
+  {
+    "text": " ci",
+    "startMs": 102600,
+    "endMs": 102600,
+    "timestampMs": 102600,
+    "confidence": null
+  },
+  {
+    "text": " riesci,",
+    "startMs": 102600,
+    "endMs": 103320,
+    "timestampMs": 102960,
+    "confidence": null
+  },
+  {
+    "text": " il",
+    "startMs": 103320,
+    "endMs": 103400,
+    "timestampMs": 103360,
+    "confidence": null
+  },
+  {
+    "text": " problema",
+    "startMs": 103400,
+    "endMs": 103720,
+    "timestampMs": 103560,
+    "confidence": null
+  },
+  {
+    "text": " sei",
+    "startMs": 103720,
+    "endMs": 103960,
+    "timestampMs": 103840,
+    "confidence": null
+  },
+  {
+    "text": " tu”.",
+    "startMs": 103960,
+    "endMs": 103960,
+    "timestampMs": 103960,
+    "confidence": null
+  },
+  {
+    "text": " Ma",
+    "startMs": 103960,
+    "endMs": 104080,
+    "timestampMs": 104020,
+    "confidence": null
+  },
+  {
+    "text": " l’orientamento",
+    "startMs": 104080,
+    "endMs": 104680,
+    "timestampMs": 104380,
+    "confidence": null
+  },
+  {
+    "text": " sessuale",
+    "startMs": 104680,
+    "endMs": 105320,
+    "timestampMs": 105000,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 105320,
+    "endMs": 105320,
+    "timestampMs": 105320,
+    "confidence": null
+  },
+  {
+    "text": " è",
+    "startMs": 105320,
+    "endMs": 105600,
+    "timestampMs": 105460,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 105600,
+    "endMs": 105720,
+    "timestampMs": 105660,
+    "confidence": null
+  },
+  {
+    "text": " colpa",
+    "startMs": 105720,
+    "endMs": 106040,
+    "timestampMs": 105880,
+    "confidence": null
+  },
+  {
+    "text": " da",
+    "startMs": 106040,
+    "endMs": 106360,
+    "timestampMs": 106200,
+    "confidence": null
+  },
+  {
+    "text": " correggere",
+    "startMs": 106360,
+    "endMs": 106880,
+    "timestampMs": 106620,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 106880,
+    "endMs": 107240,
+    "timestampMs": 107060,
+    "confidence": null
+  },
+  {
+    "text": " l’omofobia",
+    "startMs": 107240,
+    "endMs": 107720,
+    "timestampMs": 107480,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 107720,
+    "endMs": 107840,
+    "timestampMs": 107780,
+    "confidence": null
+  },
+  {
+    "text": " è",
+    "startMs": 107840,
+    "endMs": 108000,
+    "timestampMs": 107920,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 108000,
+    "endMs": 108160,
+    "timestampMs": 108080,
+    "confidence": null
+  },
+  {
+    "text": " cura:",
+    "startMs": 108160,
+    "endMs": 108640,
+    "timestampMs": 108400,
+    "confidence": null
+  },
+  {
+    "text": " è",
+    "startMs": 108640,
+    "endMs": 108840,
+    "timestampMs": 108740,
+    "confidence": null
+  },
+  {
+    "text": " il",
+    "startMs": 108840,
+    "endMs": 109080,
+    "timestampMs": 108960,
+    "confidence": null
+  },
+  {
+    "text": " problema.",
+    "startMs": 109080,
+    "endMs": 109440,
+    "timestampMs": 109260,
+    "confidence": null
+  },
+  {
+    "text": " Attenzione,",
+    "startMs": 109440,
+    "endMs": 109920,
+    "timestampMs": 109680,
+    "confidence": null
+  },
+  {
+    "text": " però:",
+    "startMs": 109920,
+    "endMs": 110040,
+    "timestampMs": 109980,
+    "confidence": null
+  },
+  {
+    "text": " questi",
+    "startMs": 110040,
+    "endMs": 110480,
+    "timestampMs": 110260,
+    "confidence": null
+  },
+  {
+    "text": " casi",
+    "startMs": 110480,
+    "endMs": 110800,
+    "timestampMs": 110640,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 110800,
+    "endMs": 111040,
+    "timestampMs": 110920,
+    "confidence": null
+  },
+  {
+    "text": " autorizzano",
+    "startMs": 111040,
+    "endMs": 111600,
+    "timestampMs": 111320,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 111600,
+    "endMs": 111600,
+    "timestampMs": 111600,
+    "confidence": null
+  },
+  {
+    "text": " dire",
+    "startMs": 111600,
+    "endMs": 111800,
+    "timestampMs": 111700,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 111800,
+    "endMs": 112080,
+    "timestampMs": 111940,
+    "confidence": null
+  },
+  {
+    "text": " ogni",
+    "startMs": 112080,
+    "endMs": 112320,
+    "timestampMs": 112200,
+    "confidence": null
+  },
+  {
+    "text": " omofobo",
+    "startMs": 112320,
+    "endMs": 112640,
+    "timestampMs": 112480,
+    "confidence": null
+  },
+  {
+    "text": " sia",
+    "startMs": 112640,
+    "endMs": 112920,
+    "timestampMs": 112780,
+    "confidence": null
+  },
+  {
+    "text": " gay",
+    "startMs": 112920,
+    "endMs": 113200,
+    "timestampMs": 113060,
+    "confidence": null
+  },
+  {
+    "text": " represso.",
+    "startMs": 113200,
+    "endMs": 113560,
+    "timestampMs": 113380,
+    "confidence": null
+  },
+  {
+    "text": " Sarebbe",
+    "startMs": 113560,
+    "endMs": 113800,
+    "timestampMs": 113680,
+    "confidence": null
+  },
+  {
+    "text": " un",
+    "startMs": 113800,
+    "endMs": 113840,
+    "timestampMs": 113820,
+    "confidence": null
+  },
+  {
+    "text": " altro",
+    "startMs": 113840,
+    "endMs": 114120,
+    "timestampMs": 113980,
+    "confidence": null
+  },
+  {
+    "text": " stereotipo.",
+    "startMs": 114120,
+    "endMs": 114840,
+    "timestampMs": 114480,
+    "confidence": null
+  },
+  {
+    "text": " E",
+    "startMs": 114840,
+    "endMs": 115000,
+    "timestampMs": 114920,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 115000,
+    "endMs": 115160,
+    "timestampMs": 115080,
+    "confidence": null
+  },
+  {
+    "text": " bisogna",
+    "startMs": 115160,
+    "endMs": 115960,
+    "timestampMs": 115560,
+    "confidence": null
+  },
+  {
+    "text": " deridere",
+    "startMs": 115960,
+    "endMs": 116240,
+    "timestampMs": 116100,
+    "confidence": null
+  },
+  {
+    "text": " chi",
+    "startMs": 116240,
+    "endMs": 116520,
+    "timestampMs": 116380,
+    "confidence": null
+  },
+  {
+    "text": " fatica",
+    "startMs": 116520,
+    "endMs": 116880,
+    "timestampMs": 116700,
+    "confidence": null
+  },
+  {
+    "text": " ad",
+    "startMs": 116880,
+    "endMs": 117120,
+    "timestampMs": 117000,
+    "confidence": null
+  },
+  {
+    "text": " accettarsi",
+    "startMs": 117120,
+    "endMs": 117880,
+    "timestampMs": 117500,
+    "confidence": null
+  },
+  {
+    "text": " o",
+    "startMs": 117880,
+    "endMs": 117920,
+    "timestampMs": 117900,
+    "confidence": null
+  },
+  {
+    "text": " pretendere",
+    "startMs": 117920,
+    "endMs": 118440,
+    "timestampMs": 118180,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 118440,
+    "endMs": 118560,
+    "timestampMs": 118500,
+    "confidence": null
+  },
+  {
+    "text": " tutti",
+    "startMs": 118560,
+    "endMs": 118720,
+    "timestampMs": 118640,
+    "confidence": null
+  },
+  {
+    "text": " facciano",
+    "startMs": 118720,
+    "endMs": 119160,
+    "timestampMs": 118940,
+    "confidence": null
+  },
+  {
+    "text": " coming",
+    "startMs": 119160,
+    "endMs": 119160,
+    "timestampMs": 119160,
+    "confidence": null
+  },
+  {
+    "text": " out.",
+    "startMs": 119160,
+    "endMs": 119360,
+    "timestampMs": 119260,
+    "confidence": null
+  },
+  {
+    "text": " Ma",
+    "startMs": 119360,
+    "endMs": 119800,
+    "timestampMs": 119580,
+    "confidence": null
+  },
+  {
+    "text": " chi",
+    "startMs": 119800,
+    "endMs": 120000,
+    "timestampMs": 119900,
+    "confidence": null
+  },
+  {
+    "text": " esercita",
+    "startMs": 120000,
+    "endMs": 120720,
+    "timestampMs": 120360,
+    "confidence": null
+  },
+  {
+    "text": " un",
+    "startMs": 120720,
+    "endMs": 120720,
+    "timestampMs": 120720,
+    "confidence": null
+  },
+  {
+    "text": " potere",
+    "startMs": 120720,
+    "endMs": 121040,
+    "timestampMs": 120880,
+    "confidence": null
+  },
+  {
+    "text": " pubblico,",
+    "startMs": 121040,
+    "endMs": 121520,
+    "timestampMs": 121280,
+    "confidence": null
+  },
+  {
+    "text": " guida",
+    "startMs": 121520,
+    "endMs": 121920,
+    "timestampMs": 121720,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 121920,
+    "endMs": 122120,
+    "timestampMs": 122020,
+    "confidence": null
+  },
+  {
+    "text": " comunità",
+    "startMs": 122120,
+    "endMs": 122520,
+    "timestampMs": 122320,
+    "confidence": null
+  },
+  {
+    "text": " o",
+    "startMs": 122520,
+    "endMs": 122680,
+    "timestampMs": 122600,
+    "confidence": null
+  },
+  {
+    "text": " promuove",
+    "startMs": 122680,
+    "endMs": 123080,
+    "timestampMs": 122880,
+    "confidence": null
+  },
+  {
+    "text": " leggi",
+    "startMs": 123080,
+    "endMs": 123320,
+    "timestampMs": 123200,
+    "confidence": null
+  },
+  {
+    "text": " contro",
+    "startMs": 123320,
+    "endMs": 123560,
+    "timestampMs": 123440,
+    "confidence": null
+  },
+  {
+    "text": " le",
+    "startMs": 123560,
+    "endMs": 123840,
+    "timestampMs": 123700,
+    "confidence": null
+  },
+  {
+    "text": " persone",
+    "startMs": 123840,
+    "endMs": 124120,
+    "timestampMs": 123980,
+    "confidence": null
+  },
+  {
+    "text": " LGBTQIA+",
+    "startMs": 124120,
+    "endMs": 124800,
+    "timestampMs": 124460,
+    "confidence": null
+  },
+  {
+    "text": " deve",
+    "startMs": 124800,
+    "endMs": 125120,
+    "timestampMs": 124960,
+    "confidence": null
+  },
+  {
+    "text": " assumersi",
+    "startMs": 125120,
+    "endMs": 126280,
+    "timestampMs": 125700,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 126280,
+    "endMs": 126600,
+    "timestampMs": 126440,
+    "confidence": null
+  },
+  {
+    "text": " responsabilità",
+    "startMs": 126600,
+    "endMs": 127440,
+    "timestampMs": 127020,
+    "confidence": null
+  },
+  {
+    "text": " delle",
+    "startMs": 127440,
+    "endMs": 127640,
+    "timestampMs": 127540,
+    "confidence": null
+  },
+  {
+    "text": " proprie",
+    "startMs": 127640,
+    "endMs": 127760,
+    "timestampMs": 127700,
+    "confidence": null
+  },
+  {
+    "text": " scelte.",
+    "startMs": 127760,
+    "endMs": 128560,
+    "timestampMs": 128160,
+    "confidence": null
+  }
+]

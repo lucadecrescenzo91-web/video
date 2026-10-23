@@ -46,12 +46,12 @@ export const Punch:React.FC<{text:string;label?:string;color?:string;angle?:numb
  </AbsoluteFill>;
 };
 
-export const Paper:React.FC<{text:string;label?:string;strike?:boolean;sub?:string;top?:number}>=({text,label,strike=false,sub,top=1390})=>{
+export const Paper:React.FC<{text:string;label?:string;strike?:boolean;sub?:string;top?:number;size?:number}>=({text,label,strike=false,sub,top=1390,size=76})=>{
  const f=useCurrentFrame();const {fps,durationInFrames}=useVideoConfig();
  return <AbsoluteFill style={{opacity:appear(f,durationInFrames)}}>
   <div style={{position:'absolute',left:84,right:140,top,padding:'24px 32px 30px',background:colors.dark,color:'white',border:`3px solid ${colors.lilac}`,boxShadow:'10px 10px 0 rgba(198,166,255,.45)',rotate:'2deg',scale:bounce(f,fps),fontFamily:sans}}>
    {label&&<div style={{fontSize:25,color:colors.lilac,letterSpacing:4,marginBottom:12}}>{label}</div>}
-   <div style={{fontSize:76,lineHeight:1.05,whiteSpace:'pre-line'}}>{text}</div>
+   <div style={{fontSize:size,lineHeight:1.05,whiteSpace:'pre-line'}}>{text}</div>
    {strike&&<svg viewBox="0 0 850 300" style={{position:'absolute',inset:0,width:'100%',height:'100%'}}><path d="M0 260L850 20" stroke={colors.red} strokeWidth="13" strokeLinecap="round" strokeDasharray="900" strokeDashoffset={interpolate(f,[.8*fps,1.1*fps],[900,0],clamp)}/></svg>}
   </div>
   {sub&&<div style={{position:'absolute',left:90,right:140,top:top+250,fontFamily:headline,fontSize:72,color:colors.ink,rotate:'-3deg',scale:bounce(f,fps,Math.round(.9*fps)),transformOrigin:'left center',textShadow:'3px 4px 0 #191321'}}>{sub}</div>}
