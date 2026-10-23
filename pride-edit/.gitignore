@@ -1,0 +1,18 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Ignore the output video from Git but not videos you import into src/.
+out
+
+# Generated per-video media; keep editable source and dependency lockfile.
+public/source.mp4
+public/masks/
+public/matte-check-*.jpg
+public/sfx/*.wav
+out/
+WORK.md
+
+public/inverse-masks/
+scripts/__pycache__/

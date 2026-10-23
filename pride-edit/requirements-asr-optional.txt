@@ -1,0 +1,6 @@
+# Optional: only when a transcript was not supplied. Install torch from the CPU wheel index.
+openai-whisper==20250625
+numba==0.61.2
+tiktoken
+more-itertools
+tqdm

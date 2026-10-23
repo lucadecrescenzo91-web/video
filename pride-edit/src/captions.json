@@ -1,0 +1,2347 @@
+[
+  {
+    "text": "Ma",
+    "startMs": 0,
+    "endMs": 200,
+    "timestampMs": 100,
+    "confidence": null
+  },
+  {
+    "text": " tu",
+    "startMs": 200,
+    "endMs": 240,
+    "timestampMs": 220,
+    "confidence": null
+  },
+  {
+    "text": " lo",
+    "startMs": 240,
+    "endMs": 400,
+    "timestampMs": 320,
+    "confidence": null
+  },
+  {
+    "text": " sai",
+    "startMs": 400,
+    "endMs": 920,
+    "timestampMs": 660,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 920,
+    "endMs": 1040,
+    "timestampMs": 980,
+    "confidence": null
+  },
+  {
+    "text": " cosa",
+    "startMs": 1040,
+    "endMs": 1080,
+    "timestampMs": 1060,
+    "confidence": null
+  },
+  {
+    "text": " significa",
+    "startMs": 1080,
+    "endMs": 1480,
+    "timestampMs": 1280,
+    "confidence": null
+  },
+  {
+    "text": " fascista?",
+    "startMs": 1480,
+    "endMs": 2000,
+    "timestampMs": 1740,
+    "confidence": null
+  },
+  {
+    "text": " Perché",
+    "startMs": 2000,
+    "endMs": 2200,
+    "timestampMs": 2100,
+    "confidence": null
+  },
+  {
+    "text": " quando",
+    "startMs": 2200,
+    "endMs": 2520,
+    "timestampMs": 2360,
+    "confidence": null
+  },
+  {
+    "text": " ricevo",
+    "startMs": 2520,
+    "endMs": 3280,
+    "timestampMs": 2900,
+    "confidence": null
+  },
+  {
+    "text": " commenti",
+    "startMs": 3280,
+    "endMs": 3600,
+    "timestampMs": 3440,
+    "confidence": null
+  },
+  {
+    "text": " del",
+    "startMs": 3600,
+    "endMs": 3800,
+    "timestampMs": 3700,
+    "confidence": null
+  },
+  {
+    "text": " genere",
+    "startMs": 3800,
+    "endMs": 4000,
+    "timestampMs": 3900,
+    "confidence": null
+  },
+  {
+    "text": " mi",
+    "startMs": 4000,
+    "endMs": 4080,
+    "timestampMs": 4040,
+    "confidence": null
+  },
+  {
+    "text": " chiedo",
+    "startMs": 4080,
+    "endMs": 4480,
+    "timestampMs": 4280,
+    "confidence": null
+  },
+  {
+    "text": " seriamente",
+    "startMs": 4480,
+    "endMs": 5200,
+    "timestampMs": 4840,
+    "confidence": null
+  },
+  {
+    "text": " se",
+    "startMs": 5200,
+    "endMs": 5360,
+    "timestampMs": 5280,
+    "confidence": null
+  },
+  {
+    "text": " le",
+    "startMs": 5360,
+    "endMs": 5440,
+    "timestampMs": 5400,
+    "confidence": null
+  },
+  {
+    "text": " persone",
+    "startMs": 5440,
+    "endMs": 5960,
+    "timestampMs": 5700,
+    "confidence": null
+  },
+  {
+    "text": " conoscano",
+    "startMs": 5960,
+    "endMs": 6880,
+    "timestampMs": 6420,
+    "confidence": null
+  },
+  {
+    "text": " il",
+    "startMs": 6880,
+    "endMs": 6960,
+    "timestampMs": 6920,
+    "confidence": null
+  },
+  {
+    "text": " significato",
+    "startMs": 6960,
+    "endMs": 7440,
+    "timestampMs": 7200,
+    "confidence": null
+  },
+  {
+    "text": " delle",
+    "startMs": 7440,
+    "endMs": 7560,
+    "timestampMs": 7500,
+    "confidence": null
+  },
+  {
+    "text": " parole",
+    "startMs": 7560,
+    "endMs": 7880,
+    "timestampMs": 7720,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 7880,
+    "endMs": 8040,
+    "timestampMs": 7960,
+    "confidence": null
+  },
+  {
+    "text": " usano.",
+    "startMs": 8040,
+    "endMs": 8360,
+    "timestampMs": 8200,
+    "confidence": null
+  },
+  {
+    "text": " Mi",
+    "startMs": 8360,
+    "endMs": 8520,
+    "timestampMs": 8440,
+    "confidence": null
+  },
+  {
+    "text": " sembra",
+    "startMs": 8520,
+    "endMs": 8680,
+    "timestampMs": 8600,
+    "confidence": null
+  },
+  {
+    "text": " assurdo",
+    "startMs": 8680,
+    "endMs": 9200,
+    "timestampMs": 8940,
+    "confidence": null
+  },
+  {
+    "text": " doverlo",
+    "startMs": 9200,
+    "endMs": 9720,
+    "timestampMs": 9460,
+    "confidence": null
+  },
+  {
+    "text": " spiegare,",
+    "startMs": 9720,
+    "endMs": 10040,
+    "timestampMs": 9880,
+    "confidence": null
+  },
+  {
+    "text": " ma",
+    "startMs": 10040,
+    "endMs": 10160,
+    "timestampMs": 10100,
+    "confidence": null
+  },
+  {
+    "text": " voglio",
+    "startMs": 10160,
+    "endMs": 10440,
+    "timestampMs": 10300,
+    "confidence": null
+  },
+  {
+    "text": " chiarire",
+    "startMs": 10440,
+    "endMs": 10640,
+    "timestampMs": 10540,
+    "confidence": null
+  },
+  {
+    "text": " il",
+    "startMs": 10640,
+    "endMs": 10880,
+    "timestampMs": 10760,
+    "confidence": null
+  },
+  {
+    "text": " concetto.",
+    "startMs": 10880,
+    "endMs": 11560,
+    "timestampMs": 11220,
+    "confidence": null
+  },
+  {
+    "text": " Ciao,",
+    "startMs": 11560,
+    "endMs": 11760,
+    "timestampMs": 11660,
+    "confidence": null
+  },
+  {
+    "text": " sono",
+    "startMs": 11760,
+    "endMs": 11960,
+    "timestampMs": 11860,
+    "confidence": null
+  },
+  {
+    "text": " Ludarks",
+    "startMs": 11960,
+    "endMs": 12240,
+    "timestampMs": 12100,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 12240,
+    "endMs": 12240,
+    "timestampMs": 12240,
+    "confidence": null
+  },
+  {
+    "text": " ogni",
+    "startMs": 12240,
+    "endMs": 12280,
+    "timestampMs": 12260,
+    "confidence": null
+  },
+  {
+    "text": " giorno",
+    "startMs": 12280,
+    "endMs": 12400,
+    "timestampMs": 12340,
+    "confidence": null
+  },
+  {
+    "text": " ci",
+    "startMs": 12400,
+    "endMs": 12560,
+    "timestampMs": 12480,
+    "confidence": null
+  },
+  {
+    "text": " metto",
+    "startMs": 12560,
+    "endMs": 12560,
+    "timestampMs": 12560,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 12560,
+    "endMs": 12560,
+    "timestampMs": 12560,
+    "confidence": null
+  },
+  {
+    "text": " faccia",
+    "startMs": 12560,
+    "endMs": 12920,
+    "timestampMs": 12740,
+    "confidence": null
+  },
+  {
+    "text": " qui",
+    "startMs": 12920,
+    "endMs": 13000,
+    "timestampMs": 12960,
+    "confidence": null
+  },
+  {
+    "text": " sui",
+    "startMs": 13000,
+    "endMs": 13040,
+    "timestampMs": 13020,
+    "confidence": null
+  },
+  {
+    "text": " social",
+    "startMs": 13040,
+    "endMs": 13320,
+    "timestampMs": 13180,
+    "confidence": null
+  },
+  {
+    "text": " per",
+    "startMs": 13320,
+    "endMs": 13320,
+    "timestampMs": 13320,
+    "confidence": null
+  },
+  {
+    "text": " combattere",
+    "startMs": 13320,
+    "endMs": 13800,
+    "timestampMs": 13560,
+    "confidence": null
+  },
+  {
+    "text": " contro",
+    "startMs": 13800,
+    "endMs": 13960,
+    "timestampMs": 13880,
+    "confidence": null
+  },
+  {
+    "text": " l’omofobia.",
+    "startMs": 13960,
+    "endMs": 14280,
+    "timestampMs": 14120,
+    "confidence": null
+  },
+  {
+    "text": " Se",
+    "startMs": 14280,
+    "endMs": 14360,
+    "timestampMs": 14320,
+    "confidence": null
+  },
+  {
+    "text": " ti",
+    "startMs": 14360,
+    "endMs": 14360,
+    "timestampMs": 14360,
+    "confidence": null
+  },
+  {
+    "text": " fa",
+    "startMs": 14360,
+    "endMs": 14520,
+    "timestampMs": 14440,
+    "confidence": null
+  },
+  {
+    "text": " piacere,",
+    "startMs": 14520,
+    "endMs": 14760,
+    "timestampMs": 14640,
+    "confidence": null
+  },
+  {
+    "text": " seguimi",
+    "startMs": 14760,
+    "endMs": 15000,
+    "timestampMs": 14880,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 15000,
+    "endMs": 15040,
+    "timestampMs": 15020,
+    "confidence": null
+  },
+  {
+    "text": " sostieni",
+    "startMs": 15040,
+    "endMs": 15320,
+    "timestampMs": 15180,
+    "confidence": null
+  },
+  {
+    "text": " questo",
+    "startMs": 15320,
+    "endMs": 15600,
+    "timestampMs": 15460,
+    "confidence": null
+  },
+  {
+    "text": " video.",
+    "startMs": 15600,
+    "endMs": 15640,
+    "timestampMs": 15620,
+    "confidence": null
+  },
+  {
+    "text": " Il",
+    "startMs": 15640,
+    "endMs": 15840,
+    "timestampMs": 15740,
+    "confidence": null
+  },
+  {
+    "text": " fascismo",
+    "startMs": 15840,
+    "endMs": 16680,
+    "timestampMs": 16260,
+    "confidence": null
+  },
+  {
+    "text": " è",
+    "startMs": 16680,
+    "endMs": 16800,
+    "timestampMs": 16740,
+    "confidence": null
+  },
+  {
+    "text": " un’ideologia",
+    "startMs": 16800,
+    "endMs": 17400,
+    "timestampMs": 17100,
+    "confidence": null
+  },
+  {
+    "text": " autoritaria",
+    "startMs": 17400,
+    "endMs": 17920,
+    "timestampMs": 17660,
+    "confidence": null
+  },
+  {
+    "text": " fondata",
+    "startMs": 17920,
+    "endMs": 18440,
+    "timestampMs": 18180,
+    "confidence": null
+  },
+  {
+    "text": " sulla",
+    "startMs": 18440,
+    "endMs": 18840,
+    "timestampMs": 18640,
+    "confidence": null
+  },
+  {
+    "text": " concentrazione",
+    "startMs": 18840,
+    "endMs": 19400,
+    "timestampMs": 19120,
+    "confidence": null
+  },
+  {
+    "text": " del",
+    "startMs": 19400,
+    "endMs": 19560,
+    "timestampMs": 19480,
+    "confidence": null
+  },
+  {
+    "text": " potere,",
+    "startMs": 19560,
+    "endMs": 19920,
+    "timestampMs": 19740,
+    "confidence": null
+  },
+  {
+    "text": " sulla",
+    "startMs": 19920,
+    "endMs": 20320,
+    "timestampMs": 20120,
+    "confidence": null
+  },
+  {
+    "text": " repressione",
+    "startMs": 20320,
+    "endMs": 20800,
+    "timestampMs": 20560,
+    "confidence": null
+  },
+  {
+    "text": " del",
+    "startMs": 20800,
+    "endMs": 20960,
+    "timestampMs": 20880,
+    "confidence": null
+  },
+  {
+    "text": " dissenso,",
+    "startMs": 20960,
+    "endMs": 21520,
+    "timestampMs": 21240,
+    "confidence": null
+  },
+  {
+    "text": " sulla",
+    "startMs": 21520,
+    "endMs": 21800,
+    "timestampMs": 21660,
+    "confidence": null
+  },
+  {
+    "text": " violenza",
+    "startMs": 21800,
+    "endMs": 22200,
+    "timestampMs": 22000,
+    "confidence": null
+  },
+  {
+    "text": " politica",
+    "startMs": 22200,
+    "endMs": 22840,
+    "timestampMs": 22520,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 22840,
+    "endMs": 22880,
+    "timestampMs": 22860,
+    "confidence": null
+  },
+  {
+    "text": " sulla",
+    "startMs": 22880,
+    "endMs": 23440,
+    "timestampMs": 23160,
+    "confidence": null
+  },
+  {
+    "text": " limitazione",
+    "startMs": 23440,
+    "endMs": 23920,
+    "timestampMs": 23680,
+    "confidence": null
+  },
+  {
+    "text": " delle",
+    "startMs": 23920,
+    "endMs": 24200,
+    "timestampMs": 24060,
+    "confidence": null
+  },
+  {
+    "text": " libertà,",
+    "startMs": 24200,
+    "endMs": 24600,
+    "timestampMs": 24400,
+    "confidence": null
+  },
+  {
+    "text": " quindi",
+    "startMs": 24600,
+    "endMs": 24760,
+    "timestampMs": 24680,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 24760,
+    "endMs": 24920,
+    "timestampMs": 24840,
+    "confidence": null
+  },
+  {
+    "text": " c’entra",
+    "startMs": 24920,
+    "endMs": 25160,
+    "timestampMs": 25040,
+    "confidence": null
+  },
+  {
+    "text": " un",
+    "startMs": 25160,
+    "endMs": 25200,
+    "timestampMs": 25180,
+    "confidence": null
+  },
+  {
+    "text": " emerito",
+    "startMs": 25200,
+    "endMs": 25680,
+    "timestampMs": 25440,
+    "confidence": null
+  },
+  {
+    "text": " cazzo",
+    "startMs": 25680,
+    "endMs": 26240,
+    "timestampMs": 25960,
+    "confidence": null
+  },
+  {
+    "text": " con",
+    "startMs": 26240,
+    "endMs": 26400,
+    "timestampMs": 26320,
+    "confidence": null
+  },
+  {
+    "text": " quello",
+    "startMs": 26400,
+    "endMs": 26880,
+    "timestampMs": 26640,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 26880,
+    "endMs": 27000,
+    "timestampMs": 26940,
+    "confidence": null
+  },
+  {
+    "text": " io",
+    "startMs": 27000,
+    "endMs": 27000,
+    "timestampMs": 27000,
+    "confidence": null
+  },
+  {
+    "text": " faccio",
+    "startMs": 27000,
+    "endMs": 27040,
+    "timestampMs": 27020,
+    "confidence": null
+  },
+  {
+    "text": " nei",
+    "startMs": 27040,
+    "endMs": 27240,
+    "timestampMs": 27140,
+    "confidence": null
+  },
+  {
+    "text": " miei",
+    "startMs": 27240,
+    "endMs": 27560,
+    "timestampMs": 27400,
+    "confidence": null
+  },
+  {
+    "text": " video.",
+    "startMs": 27560,
+    "endMs": 27760,
+    "timestampMs": 27660,
+    "confidence": null
+  },
+  {
+    "text": " Criticare",
+    "startMs": 27760,
+    "endMs": 28480,
+    "timestampMs": 28120,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 28480,
+    "endMs": 28720,
+    "timestampMs": 28600,
+    "confidence": null
+  },
+  {
+    "text": " strumentalizzazione",
+    "startMs": 28720,
+    "endMs": 29440,
+    "timestampMs": 29080,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 29440,
+    "endMs": 29680,
+    "timestampMs": 29560,
+    "confidence": null
+  },
+  {
+    "text": " un’intervista",
+    "startMs": 29680,
+    "endMs": 30280,
+    "timestampMs": 29980,
+    "confidence": null
+  },
+  {
+    "text": " televisiva",
+    "startMs": 30280,
+    "endMs": 30680,
+    "timestampMs": 30480,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 30680,
+    "endMs": 30880,
+    "timestampMs": 30780,
+    "confidence": null
+  },
+  {
+    "text": " è",
+    "startMs": 30880,
+    "endMs": 31040,
+    "timestampMs": 30960,
+    "confidence": null
+  },
+  {
+    "text": " fascismo.",
+    "startMs": 31040,
+    "endMs": 31720,
+    "timestampMs": 31380,
+    "confidence": null
+  },
+  {
+    "text": " Io",
+    "startMs": 31720,
+    "endMs": 31920,
+    "timestampMs": 31820,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 31920,
+    "endMs": 31920,
+    "timestampMs": 31920,
+    "confidence": null
+  },
+  {
+    "text": " chiedo",
+    "startMs": 31920,
+    "endMs": 32040,
+    "timestampMs": 31980,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 32040,
+    "endMs": 32080,
+    "timestampMs": 32060,
+    "confidence": null
+  },
+  {
+    "text": " censurare",
+    "startMs": 32080,
+    "endMs": 32720,
+    "timestampMs": 32400,
+    "confidence": null
+  },
+  {
+    "text": " chi",
+    "startMs": 32720,
+    "endMs": 32800,
+    "timestampMs": 32760,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 32800,
+    "endMs": 32960,
+    "timestampMs": 32880,
+    "confidence": null
+  },
+  {
+    "text": " pensa",
+    "startMs": 32960,
+    "endMs": 33240,
+    "timestampMs": 33100,
+    "confidence": null
+  },
+  {
+    "text": " diversamente",
+    "startMs": 33240,
+    "endMs": 33760,
+    "timestampMs": 33500,
+    "confidence": null
+  },
+  {
+    "text": " da",
+    "startMs": 33760,
+    "endMs": 33960,
+    "timestampMs": 33860,
+    "confidence": null
+  },
+  {
+    "text": " me.",
+    "startMs": 33960,
+    "endMs": 34160,
+    "timestampMs": 34060,
+    "confidence": null
+  },
+  {
+    "text": " Chiedo",
+    "startMs": 34160,
+    "endMs": 34480,
+    "timestampMs": 34320,
+    "confidence": null
+  },
+  {
+    "text": " soltanto",
+    "startMs": 34480,
+    "endMs": 35080,
+    "timestampMs": 34780,
+    "confidence": null
+  },
+  {
+    "text": " argomentazioni",
+    "startMs": 35080,
+    "endMs": 35880,
+    "timestampMs": 35480,
+    "confidence": null
+  },
+  {
+    "text": " valide,",
+    "startMs": 35880,
+    "endMs": 36400,
+    "timestampMs": 36140,
+    "confidence": null
+  },
+  {
+    "text": " dati",
+    "startMs": 36400,
+    "endMs": 36720,
+    "timestampMs": 36560,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 36720,
+    "endMs": 36920,
+    "timestampMs": 36820,
+    "confidence": null
+  },
+  {
+    "text": " fonti.",
+    "startMs": 36920,
+    "endMs": 37440,
+    "timestampMs": 37180,
+    "confidence": null
+  },
+  {
+    "text": " Perché",
+    "startMs": 37440,
+    "endMs": 37600,
+    "timestampMs": 37520,
+    "confidence": null
+  },
+  {
+    "text": " se",
+    "startMs": 37600,
+    "endMs": 37880,
+    "timestampMs": 37740,
+    "confidence": null
+  },
+  {
+    "text": " sostenete",
+    "startMs": 37880,
+    "endMs": 38440,
+    "timestampMs": 38160,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 38440,
+    "endMs": 38680,
+    "timestampMs": 38560,
+    "confidence": null
+  },
+  {
+    "text": " determinati",
+    "startMs": 38680,
+    "endMs": 39320,
+    "timestampMs": 39000,
+    "confidence": null
+  },
+  {
+    "text": " trattamenti",
+    "startMs": 39320,
+    "endMs": 39840,
+    "timestampMs": 39580,
+    "confidence": null
+  },
+  {
+    "text": " abbiano",
+    "startMs": 39840,
+    "endMs": 40160,
+    "timestampMs": 40000,
+    "confidence": null
+  },
+  {
+    "text": " effetti",
+    "startMs": 40160,
+    "endMs": 40480,
+    "timestampMs": 40320,
+    "confidence": null
+  },
+  {
+    "text": " collaterali",
+    "startMs": 40480,
+    "endMs": 41200,
+    "timestampMs": 40840,
+    "confidence": null
+  },
+  {
+    "text": " ignorati,",
+    "startMs": 41200,
+    "endMs": 41920,
+    "timestampMs": 41560,
+    "confidence": null
+  },
+  {
+    "text": " dovete",
+    "startMs": 41920,
+    "endMs": 42280,
+    "timestampMs": 42100,
+    "confidence": null
+  },
+  {
+    "text": " spiegare",
+    "startMs": 42280,
+    "endMs": 42640,
+    "timestampMs": 42460,
+    "confidence": null
+  },
+  {
+    "text": " quali,",
+    "startMs": 42640,
+    "endMs": 43000,
+    "timestampMs": 42820,
+    "confidence": null
+  },
+  {
+    "text": " citare",
+    "startMs": 43000,
+    "endMs": 43480,
+    "timestampMs": 43240,
+    "confidence": null
+  },
+  {
+    "text": " studi",
+    "startMs": 43480,
+    "endMs": 43680,
+    "timestampMs": 43580,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 43680,
+    "endMs": 43840,
+    "timestampMs": 43760,
+    "confidence": null
+  },
+  {
+    "text": " presentarli",
+    "startMs": 43840,
+    "endMs": 44320,
+    "timestampMs": 44080,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 44320,
+    "endMs": 44480,
+    "timestampMs": 44400,
+    "confidence": null
+  },
+  {
+    "text": " modo",
+    "startMs": 44480,
+    "endMs": 44880,
+    "timestampMs": 44680,
+    "confidence": null
+  },
+  {
+    "text": " verificabile.",
+    "startMs": 44880,
+    "endMs": 46120,
+    "timestampMs": 45500,
+    "confidence": null
+  },
+  {
+    "text": " Altrimenti",
+    "startMs": 46120,
+    "endMs": 46520,
+    "timestampMs": 46320,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 46520,
+    "endMs": 46720,
+    "timestampMs": 46620,
+    "confidence": null
+  },
+  {
+    "text": " state",
+    "startMs": 46720,
+    "endMs": 47240,
+    "timestampMs": 46980,
+    "confidence": null
+  },
+  {
+    "text": " portando",
+    "startMs": 47240,
+    "endMs": 47720,
+    "timestampMs": 47480,
+    "confidence": null
+  },
+  {
+    "text": " fatti:",
+    "startMs": 47720,
+    "endMs": 48320,
+    "timestampMs": 48020,
+    "confidence": null
+  },
+  {
+    "text": " state",
+    "startMs": 48320,
+    "endMs": 48560,
+    "timestampMs": 48440,
+    "confidence": null
+  },
+  {
+    "text": " trasformando",
+    "startMs": 48560,
+    "endMs": 49320,
+    "timestampMs": 48940,
+    "confidence": null
+  },
+  {
+    "text": " un’opinione",
+    "startMs": 49320,
+    "endMs": 49920,
+    "timestampMs": 49620,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 49920,
+    "endMs": 50120,
+    "timestampMs": 50020,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 50120,
+    "endMs": 50520,
+    "timestampMs": 50320,
+    "confidence": null
+  },
+  {
+    "text": " verità.",
+    "startMs": 50520,
+    "endMs": 50840,
+    "timestampMs": 50680,
+    "confidence": null
+  },
+  {
+    "text": " E",
+    "startMs": 50840,
+    "endMs": 51040,
+    "timestampMs": 50940,
+    "confidence": null
+  },
+  {
+    "text": " c’è",
+    "startMs": 51040,
+    "endMs": 51360,
+    "timestampMs": 51200,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 51360,
+    "endMs": 51680,
+    "timestampMs": 51520,
+    "confidence": null
+  },
+  {
+    "text": " contraddizione",
+    "startMs": 51680,
+    "endMs": 51920,
+    "timestampMs": 51800,
+    "confidence": null
+  },
+  {
+    "text": " evidente",
+    "startMs": 51920,
+    "endMs": 52200,
+    "timestampMs": 52060,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 52200,
+    "endMs": 52360,
+    "timestampMs": 52280,
+    "confidence": null
+  },
+  {
+    "text": " quello",
+    "startMs": 52360,
+    "endMs": 52600,
+    "timestampMs": 52480,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 52600,
+    "endMs": 52720,
+    "timestampMs": 52660,
+    "confidence": null
+  },
+  {
+    "text": " tu",
+    "startMs": 52720,
+    "endMs": 52840,
+    "timestampMs": 52780,
+    "confidence": null
+  },
+  {
+    "text": " mi",
+    "startMs": 52840,
+    "endMs": 53080,
+    "timestampMs": 52960,
+    "confidence": null
+  },
+  {
+    "text": " scrivi:",
+    "startMs": 53080,
+    "endMs": 53280,
+    "timestampMs": 53180,
+    "confidence": null
+  },
+  {
+    "text": " sì,",
+    "startMs": 53280,
+    "endMs": 53520,
+    "timestampMs": 53400,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 53520,
+    "endMs": 53720,
+    "timestampMs": 53620,
+    "confidence": null
+  },
+  {
+    "text": " persona",
+    "startMs": 53720,
+    "endMs": 54080,
+    "timestampMs": 53900,
+    "confidence": null
+  },
+  {
+    "text": " trans",
+    "startMs": 54080,
+    "endMs": 54640,
+    "timestampMs": 54360,
+    "confidence": null
+  },
+  {
+    "text": " è",
+    "startMs": 54640,
+    "endMs": 55040,
+    "timestampMs": 54840,
+    "confidence": null
+  },
+  {
+    "text": " libera",
+    "startMs": 55040,
+    "endMs": 55240,
+    "timestampMs": 55140,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 55240,
+    "endMs": 55240,
+    "timestampMs": 55240,
+    "confidence": null
+  },
+  {
+    "text": " pentirsi,",
+    "startMs": 55240,
+    "endMs": 55640,
+    "timestampMs": 55440,
+    "confidence": null
+  },
+  {
+    "text": " raccontare",
+    "startMs": 55640,
+    "endMs": 55960,
+    "timestampMs": 55800,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 55960,
+    "endMs": 56240,
+    "timestampMs": 56100,
+    "confidence": null
+  },
+  {
+    "text": " propria",
+    "startMs": 56240,
+    "endMs": 56360,
+    "timestampMs": 56300,
+    "confidence": null
+  },
+  {
+    "text": " esperienza",
+    "startMs": 56360,
+    "endMs": 57160,
+    "timestampMs": 56760,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 57160,
+    "endMs": 57280,
+    "timestampMs": 57220,
+    "confidence": null
+  },
+  {
+    "text": " criticare",
+    "startMs": 57280,
+    "endMs": 57760,
+    "timestampMs": 57520,
+    "confidence": null
+  },
+  {
+    "text": " il",
+    "startMs": 57760,
+    "endMs": 57840,
+    "timestampMs": 57800,
+    "confidence": null
+  },
+  {
+    "text": " percorso",
+    "startMs": 57840,
+    "endMs": 58440,
+    "timestampMs": 58140,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 58440,
+    "endMs": 58680,
+    "timestampMs": 58560,
+    "confidence": null
+  },
+  {
+    "text": " ha",
+    "startMs": 58680,
+    "endMs": 58680,
+    "timestampMs": 58680,
+    "confidence": null
+  },
+  {
+    "text": " intrapreso.",
+    "startMs": 58680,
+    "endMs": 59240,
+    "timestampMs": 58960,
+    "confidence": null
+  },
+  {
+    "text": " Ma",
+    "startMs": 59240,
+    "endMs": 59240,
+    "timestampMs": 59240,
+    "confidence": null
+  },
+  {
+    "text": " questo",
+    "startMs": 59240,
+    "endMs": 59480,
+    "timestampMs": 59360,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 59480,
+    "endMs": 59600,
+    "timestampMs": 59540,
+    "confidence": null
+  },
+  {
+    "text": " significa",
+    "startMs": 59600,
+    "endMs": 60160,
+    "timestampMs": 59880,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 60160,
+    "endMs": 60280,
+    "timestampMs": 60220,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 60280,
+    "endMs": 60360,
+    "timestampMs": 60320,
+    "confidence": null
+  },
+  {
+    "text": " sua",
+    "startMs": 60360,
+    "endMs": 60480,
+    "timestampMs": 60420,
+    "confidence": null
+  },
+  {
+    "text": " storia",
+    "startMs": 60480,
+    "endMs": 61080,
+    "timestampMs": 60780,
+    "confidence": null
+  },
+  {
+    "text": " rappresenti",
+    "startMs": 61080,
+    "endMs": 61600,
+    "timestampMs": 61340,
+    "confidence": null
+  },
+  {
+    "text": " tutte",
+    "startMs": 61600,
+    "endMs": 61840,
+    "timestampMs": 61720,
+    "confidence": null
+  },
+  {
+    "text": " le",
+    "startMs": 61840,
+    "endMs": 62000,
+    "timestampMs": 61920,
+    "confidence": null
+  },
+  {
+    "text": " altre",
+    "startMs": 62000,
+    "endMs": 62280,
+    "timestampMs": 62140,
+    "confidence": null
+  },
+  {
+    "text": " persone",
+    "startMs": 62280,
+    "endMs": 62640,
+    "timestampMs": 62460,
+    "confidence": null
+  },
+  {
+    "text": " trans.",
+    "startMs": 62640,
+    "endMs": 63080,
+    "timestampMs": 62860,
+    "confidence": null
+  },
+  {
+    "text": " E",
+    "startMs": 63080,
+    "endMs": 63440,
+    "timestampMs": 63260,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 63440,
+    "endMs": 63440,
+    "timestampMs": 63440,
+    "confidence": null
+  },
+  {
+    "text": " significa",
+    "startMs": 63440,
+    "endMs": 64080,
+    "timestampMs": 63760,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 64080,
+    "endMs": 64200,
+    "timestampMs": 64140,
+    "confidence": null
+  },
+  {
+    "text": " i",
+    "startMs": 64200,
+    "endMs": 64360,
+    "timestampMs": 64280,
+    "confidence": null
+  },
+  {
+    "text": " percorsi",
+    "startMs": 64360,
+    "endMs": 64720,
+    "timestampMs": 64540,
+    "confidence": null
+  },
+  {
+    "text": " medici",
+    "startMs": 64720,
+    "endMs": 64920,
+    "timestampMs": 64820,
+    "confidence": null
+  },
+  {
+    "text": " siano",
+    "startMs": 64920,
+    "endMs": 65600,
+    "timestampMs": 65260,
+    "confidence": null
+  },
+  {
+    "text": " “propaganda",
+    "startMs": 65600,
+    "endMs": 66120,
+    "timestampMs": 65860,
+    "confidence": null
+  },
+  {
+    "text": " LGBT”.",
+    "startMs": 66120,
+    "endMs": 66920,
+    "timestampMs": 66520,
+    "confidence": null
+  },
+  {
+    "text": " Una",
+    "startMs": 66920,
+    "endMs": 67160,
+    "timestampMs": 67040,
+    "confidence": null
+  },
+  {
+    "text": " testimonianza",
+    "startMs": 67160,
+    "endMs": 68240,
+    "timestampMs": 67700,
+    "confidence": null
+  },
+  {
+    "text": " individuale",
+    "startMs": 68240,
+    "endMs": 68800,
+    "timestampMs": 68520,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 68800,
+    "endMs": 69080,
+    "timestampMs": 68940,
+    "confidence": null
+  },
+  {
+    "text": " può",
+    "startMs": 69080,
+    "endMs": 69280,
+    "timestampMs": 69180,
+    "confidence": null
+  },
+  {
+    "text": " diventare",
+    "startMs": 69280,
+    "endMs": 69560,
+    "timestampMs": 69420,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 69560,
+    "endMs": 69600,
+    "timestampMs": 69580,
+    "confidence": null
+  },
+  {
+    "text": " verità",
+    "startMs": 69600,
+    "endMs": 70200,
+    "timestampMs": 69900,
+    "confidence": null
+  },
+  {
+    "text": " assoluta.",
+    "startMs": 70200,
+    "endMs": 70880,
+    "timestampMs": 70540,
+    "confidence": null
+  },
+  {
+    "text": " E",
+    "startMs": 70880,
+    "endMs": 71200,
+    "timestampMs": 71040,
+    "confidence": null
+  },
+  {
+    "text": " dire",
+    "startMs": 71200,
+    "endMs": 71640,
+    "timestampMs": 71420,
+    "confidence": null
+  },
+  {
+    "text": " questo",
+    "startMs": 71640,
+    "endMs": 72000,
+    "timestampMs": 71820,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 72000,
+    "endMs": 72280,
+    "timestampMs": 72140,
+    "confidence": null
+  },
+  {
+    "text": " significa",
+    "startMs": 72280,
+    "endMs": 72960,
+    "timestampMs": 72620,
+    "confidence": null
+  },
+  {
+    "text": " impedire",
+    "startMs": 72960,
+    "endMs": 73360,
+    "timestampMs": 73160,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 73360,
+    "endMs": 73560,
+    "timestampMs": 73460,
+    "confidence": null
+  },
+  {
+    "text": " qualcuno",
+    "startMs": 73560,
+    "endMs": 73800,
+    "timestampMs": 73680,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 73800,
+    "endMs": 73920,
+    "timestampMs": 73860,
+    "confidence": null
+  },
+  {
+    "text": " parlare,",
+    "startMs": 73920,
+    "endMs": 74040,
+    "timestampMs": 73980,
+    "confidence": null
+  },
+  {
+    "text": " ma",
+    "startMs": 74040,
+    "endMs": 74400,
+    "timestampMs": 74220,
+    "confidence": null
+  },
+  {
+    "text": " evitare",
+    "startMs": 74400,
+    "endMs": 74760,
+    "timestampMs": 74580,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 74760,
+    "endMs": 75080,
+    "timestampMs": 74920,
+    "confidence": null
+  },
+  {
+    "text": " strumentalizzazione",
+    "startMs": 75080,
+    "endMs": 76280,
+    "timestampMs": 75680,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 76280,
+    "endMs": 76520,
+    "timestampMs": 76400,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 76520,
+    "endMs": 76520,
+    "timestampMs": 76520,
+    "confidence": null
+  },
+  {
+    "text": " storia",
+    "startMs": 76520,
+    "endMs": 76920,
+    "timestampMs": 76720,
+    "confidence": null
+  },
+  {
+    "text": " atta",
+    "startMs": 76920,
+    "endMs": 77200,
+    "timestampMs": 77060,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 77200,
+    "endMs": 77480,
+    "timestampMs": 77340,
+    "confidence": null
+  },
+  {
+    "text": " negare",
+    "startMs": 77480,
+    "endMs": 77760,
+    "timestampMs": 77620,
+    "confidence": null
+  },
+  {
+    "text": " diritti",
+    "startMs": 77760,
+    "endMs": 78040,
+    "timestampMs": 77900,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 78040,
+    "endMs": 78240,
+    "timestampMs": 78140,
+    "confidence": null
+  },
+  {
+    "text": " dignità",
+    "startMs": 78240,
+    "endMs": 78520,
+    "timestampMs": 78380,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 78520,
+    "endMs": 78880,
+    "timestampMs": 78700,
+    "confidence": null
+  },
+  {
+    "text": " migliaia",
+    "startMs": 78880,
+    "endMs": 79320,
+    "timestampMs": 79100,
+    "confidence": null
+  },
+  {
+    "text": " di",
+    "startMs": 79320,
+    "endMs": 79400,
+    "timestampMs": 79360,
+    "confidence": null
+  },
+  {
+    "text": " persone.",
+    "startMs": 79400,
+    "endMs": 79960,
+    "timestampMs": 79680,
+    "confidence": null
+  },
+  {
+    "text": " E",
+    "startMs": 79960,
+    "endMs": 80400,
+    "timestampMs": 80180,
+    "confidence": null
+  },
+  {
+    "text": " smettetela",
+    "startMs": 80400,
+    "endMs": 80960,
+    "timestampMs": 80680,
+    "confidence": null
+  },
+  {
+    "text": " anche",
+    "startMs": 80960,
+    "endMs": 81400,
+    "timestampMs": 81180,
+    "confidence": null
+  },
+  {
+    "text": " con",
+    "startMs": 81400,
+    "endMs": 81960,
+    "timestampMs": 81680,
+    "confidence": null
+  },
+  {
+    "text": " appellativi",
+    "startMs": 81960,
+    "endMs": 83360,
+    "timestampMs": 82660,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 83360,
+    "endMs": 83640,
+    "timestampMs": 83500,
+    "confidence": null
+  },
+  {
+    "text": " mi",
+    "startMs": 83640,
+    "endMs": 83840,
+    "timestampMs": 83740,
+    "confidence": null
+  },
+  {
+    "text": " affibiate",
+    "startMs": 83840,
+    "endMs": 84480,
+    "timestampMs": 84160,
+    "confidence": null
+  },
+  {
+    "text": " come",
+    "startMs": 84480,
+    "endMs": 84840,
+    "timestampMs": 84660,
+    "confidence": null
+  },
+  {
+    "text": " “comunista”",
+    "startMs": 84840,
+    "endMs": 85560,
+    "timestampMs": 85200,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 85560,
+    "endMs": 85680,
+    "timestampMs": 85620,
+    "confidence": null
+  },
+  {
+    "text": " “sinistroide”.",
+    "startMs": 85680,
+    "endMs": 86720,
+    "timestampMs": 86200,
+    "confidence": null
+  },
+  {
+    "text": " Un",
+    "startMs": 86720,
+    "endMs": 86840,
+    "timestampMs": 86780,
+    "confidence": null
+  },
+  {
+    "text": " comunista",
+    "startMs": 86840,
+    "endMs": 87400,
+    "timestampMs": 87120,
+    "confidence": null
+  },
+  {
+    "text": " aderisce",
+    "startMs": 87400,
+    "endMs": 87760,
+    "timestampMs": 87580,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 87760,
+    "endMs": 87880,
+    "timestampMs": 87820,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 87880,
+    "endMs": 87880,
+    "timestampMs": 87880,
+    "confidence": null
+  },
+  {
+    "text": " precisa",
+    "startMs": 87880,
+    "endMs": 88280,
+    "timestampMs": 88080,
+    "confidence": null
+  },
+  {
+    "text": " teoria",
+    "startMs": 88280,
+    "endMs": 88600,
+    "timestampMs": 88440,
+    "confidence": null
+  },
+  {
+    "text": " politica",
+    "startMs": 88600,
+    "endMs": 88880,
+    "timestampMs": 88740,
+    "confidence": null
+  },
+  {
+    "text": " ed",
+    "startMs": 88880,
+    "endMs": 89080,
+    "timestampMs": 88980,
+    "confidence": null
+  },
+  {
+    "text": " economica:",
+    "startMs": 89080,
+    "endMs": 89760,
+    "timestampMs": 89420,
+    "confidence": null
+  },
+  {
+    "text": " difendere",
+    "startMs": 89760,
+    "endMs": 90240,
+    "timestampMs": 90000,
+    "confidence": null
+  },
+  {
+    "text": " le",
+    "startMs": 90240,
+    "endMs": 90240,
+    "timestampMs": 90240,
+    "confidence": null
+  },
+  {
+    "text": " persone",
+    "startMs": 90240,
+    "endMs": 90840,
+    "timestampMs": 90540,
+    "confidence": null
+  },
+  {
+    "text": " LGBTQIA+",
+    "startMs": 90840,
+    "endMs": 91480,
+    "timestampMs": 91160,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 91480,
+    "endMs": 91880,
+    "timestampMs": 91680,
+    "confidence": null
+  },
+  {
+    "text": " significa",
+    "startMs": 91880,
+    "endMs": 92520,
+    "timestampMs": 92200,
+    "confidence": null
+  },
+  {
+    "text": " automaticamente",
+    "startMs": 92520,
+    "endMs": 93240,
+    "timestampMs": 92880,
+    "confidence": null
+  },
+  {
+    "text": " esserlo",
+    "startMs": 93240,
+    "endMs": 93760,
+    "timestampMs": 93500,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 93760,
+    "endMs": 94040,
+    "timestampMs": 93900,
+    "confidence": null
+  },
+  {
+    "text": " “Sinistroide”",
+    "startMs": 94040,
+    "endMs": 94520,
+    "timestampMs": 94280,
+    "confidence": null
+  },
+  {
+    "text": " è",
+    "startMs": 94520,
+    "endMs": 94840,
+    "timestampMs": 94680,
+    "confidence": null
+  },
+  {
+    "text": " soltanto",
+    "startMs": 94840,
+    "endMs": 95040,
+    "timestampMs": 94940,
+    "confidence": null
+  },
+  {
+    "text": " un",
+    "startMs": 95040,
+    "endMs": 95160,
+    "timestampMs": 95100,
+    "confidence": null
+  },
+  {
+    "text": " insulto",
+    "startMs": 95160,
+    "endMs": 95560,
+    "timestampMs": 95360,
+    "confidence": null
+  },
+  {
+    "text": " per",
+    "startMs": 95560,
+    "endMs": 95960,
+    "timestampMs": 95760,
+    "confidence": null
+  },
+  {
+    "text": " liquidare",
+    "startMs": 95960,
+    "endMs": 96360,
+    "timestampMs": 96160,
+    "confidence": null
+  },
+  {
+    "text": " qualcuno",
+    "startMs": 96360,
+    "endMs": 96640,
+    "timestampMs": 96500,
+    "confidence": null
+  },
+  {
+    "text": " senza",
+    "startMs": 96640,
+    "endMs": 97200,
+    "timestampMs": 96920,
+    "confidence": null
+  },
+  {
+    "text": " nemmeno",
+    "startMs": 97200,
+    "endMs": 97440,
+    "timestampMs": 97320,
+    "confidence": null
+  },
+  {
+    "text": " conoscere",
+    "startMs": 97440,
+    "endMs": 97880,
+    "timestampMs": 97660,
+    "confidence": null
+  },
+  {
+    "text": " le",
+    "startMs": 97880,
+    "endMs": 97920,
+    "timestampMs": 97900,
+    "confidence": null
+  },
+  {
+    "text": " sue",
+    "startMs": 97920,
+    "endMs": 98200,
+    "timestampMs": 98060,
+    "confidence": null
+  },
+  {
+    "text": " idee",
+    "startMs": 98200,
+    "endMs": 98360,
+    "timestampMs": 98280,
+    "confidence": null
+  },
+  {
+    "text": " politiche!",
+    "startMs": 98360,
+    "endMs": 98600,
+    "timestampMs": 98480,
+    "confidence": null
+  },
+  {
+    "text": " Io",
+    "startMs": 98600,
+    "endMs": 99160,
+    "timestampMs": 98880,
+    "confidence": null
+  },
+  {
+    "text": " posso",
+    "startMs": 99160,
+    "endMs": 99560,
+    "timestampMs": 99360,
+    "confidence": null
+  },
+  {
+    "text": " criticare",
+    "startMs": 99560,
+    "endMs": 100160,
+    "timestampMs": 99860,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 100160,
+    "endMs": 100280,
+    "timestampMs": 100220,
+    "confidence": null
+  },
+  {
+    "text": " disinformazione",
+    "startMs": 100280,
+    "endMs": 101120,
+    "timestampMs": 100700,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 101120,
+    "endMs": 101240,
+    "timestampMs": 101180,
+    "confidence": null
+  },
+  {
+    "text": " ciò",
+    "startMs": 101240,
+    "endMs": 101440,
+    "timestampMs": 101340,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 101440,
+    "endMs": 101560,
+    "timestampMs": 101500,
+    "confidence": null
+  },
+  {
+    "text": " mi",
+    "startMs": 101560,
+    "endMs": 101880,
+    "timestampMs": 101720,
+    "confidence": null
+  },
+  {
+    "text": " rende",
+    "startMs": 101880,
+    "endMs": 102000,
+    "timestampMs": 101940,
+    "confidence": null
+  },
+  {
+    "text": " fascista,",
+    "startMs": 102000,
+    "endMs": 102320,
+    "timestampMs": 102160,
+    "confidence": null
+  },
+  {
+    "text": " e",
+    "startMs": 102320,
+    "endMs": 102440,
+    "timestampMs": 102380,
+    "confidence": null
+  },
+  {
+    "text": " posso",
+    "startMs": 102440,
+    "endMs": 102840,
+    "timestampMs": 102640,
+    "confidence": null
+  },
+  {
+    "text": " difendere",
+    "startMs": 102840,
+    "endMs": 103040,
+    "timestampMs": 102940,
+    "confidence": null
+  },
+  {
+    "text": " una",
+    "startMs": 103040,
+    "endMs": 103320,
+    "timestampMs": 103180,
+    "confidence": null
+  },
+  {
+    "text": " minoranza",
+    "startMs": 103320,
+    "endMs": 103840,
+    "timestampMs": 103580,
+    "confidence": null
+  },
+  {
+    "text": " senza",
+    "startMs": 103840,
+    "endMs": 104240,
+    "timestampMs": 104040,
+    "confidence": null
+  },
+  {
+    "text": " essere",
+    "startMs": 104240,
+    "endMs": 104520,
+    "timestampMs": 104380,
+    "confidence": null
+  },
+  {
+    "text": " comunista.",
+    "startMs": 104520,
+    "endMs": 105160,
+    "timestampMs": 104840,
+    "confidence": null
+  },
+  {
+    "text": " Le",
+    "startMs": 105160,
+    "endMs": 105280,
+    "timestampMs": 105220,
+    "confidence": null
+  },
+  {
+    "text": " parole",
+    "startMs": 105280,
+    "endMs": 105720,
+    "timestampMs": 105500,
+    "confidence": null
+  },
+  {
+    "text": " hanno",
+    "startMs": 105720,
+    "endMs": 105880,
+    "timestampMs": 105800,
+    "confidence": null
+  },
+  {
+    "text": " un",
+    "startMs": 105880,
+    "endMs": 106080,
+    "timestampMs": 105980,
+    "confidence": null
+  },
+  {
+    "text": " significato",
+    "startMs": 106080,
+    "endMs": 106400,
+    "timestampMs": 106240,
+    "confidence": null
+  },
+  {
+    "text": " preciso.",
+    "startMs": 106400,
+    "endMs": 106880,
+    "timestampMs": 106640,
+    "confidence": null
+  },
+  {
+    "text": " Usarle",
+    "startMs": 106880,
+    "endMs": 107360,
+    "timestampMs": 107120,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 107360,
+    "endMs": 107400,
+    "timestampMs": 107380,
+    "confidence": null
+  },
+  {
+    "text": " caso",
+    "startMs": 107400,
+    "endMs": 107840,
+    "timestampMs": 107620,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 107840,
+    "endMs": 108280,
+    "timestampMs": 108060,
+    "confidence": null
+  },
+  {
+    "text": " rende",
+    "startMs": 108280,
+    "endMs": 108400,
+    "timestampMs": 108340,
+    "confidence": null
+  },
+  {
+    "text": " più",
+    "startMs": 108400,
+    "endMs": 108400,
+    "timestampMs": 108400,
+    "confidence": null
+  },
+  {
+    "text": " forte",
+    "startMs": 108400,
+    "endMs": 108800,
+    "timestampMs": 108600,
+    "confidence": null
+  },
+  {
+    "text": " la",
+    "startMs": 108800,
+    "endMs": 108800,
+    "timestampMs": 108800,
+    "confidence": null
+  },
+  {
+    "text": " vostra",
+    "startMs": 108800,
+    "endMs": 109320,
+    "timestampMs": 109060,
+    "confidence": null
+  },
+  {
+    "text": " opinione:",
+    "startMs": 109320,
+    "endMs": 109720,
+    "timestampMs": 109520,
+    "confidence": null
+  },
+  {
+    "text": " dimostra",
+    "startMs": 109720,
+    "endMs": 110160,
+    "timestampMs": 109940,
+    "confidence": null
+  },
+  {
+    "text": " soltanto",
+    "startMs": 110160,
+    "endMs": 110920,
+    "timestampMs": 110540,
+    "confidence": null
+  },
+  {
+    "text": " che",
+    "startMs": 110920,
+    "endMs": 111040,
+    "timestampMs": 110980,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 111040,
+    "endMs": 111360,
+    "timestampMs": 111200,
+    "confidence": null
+  },
+  {
+    "text": " avete",
+    "startMs": 111360,
+    "endMs": 111480,
+    "timestampMs": 111420,
+    "confidence": null
+  },
+  {
+    "text": " nessun",
+    "startMs": 111480,
+    "endMs": 111720,
+    "timestampMs": 111600,
+    "confidence": null
+  },
+  {
+    "text": " argomento.",
+    "startMs": 111720,
+    "endMs": 112640,
+    "timestampMs": 112180,
+    "confidence": null
+  }
+]
