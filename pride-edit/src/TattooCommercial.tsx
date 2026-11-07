@@ -3,6 +3,7 @@ import {Audio,Video} from '@remotion/media';
 import type {Caption} from '@remotion/captions';
 import {AbsoluteFill,Img,Sequence,cancelRender,continueRender,delayRender,Easing,interpolate,spring,staticFile,useCurrentFrame,useVideoConfig} from 'remotion';
 import captions from './captions-03.json';
+import {TattooFlash,TattooNeedle} from './TattooGraphics';
 
 const C={red:'#ff342d',yellow:'#f4ff58',cream:'#fff6e5',black:'#111111',blue:'#3d7eff'};
 const limit={extrapolateLeft:'clamp',extrapolateRight:'clamp'} as const;
@@ -53,7 +54,7 @@ export const EdgeFlash:React.FC<{color?:string}>=({color=C.red})=>{
 const HookAccents:React.FC=()=>{
  const f=useCurrentFrame();const {fps,durationInFrames:n}=useVideoConfig();
  return <AbsoluteFill style={{opacity:out(f,n)}}>
-  <div style={{position:'absolute',top:1580,left:96,fontFamily:heavy,color:C.cream,fontSize:52,letterSpacing:-2,translate:`${interpolate(f,[0,12],[-100,0],limit)}px 0`,background:C.black,padding:'16px 24px',rotate:'-2deg'}}>IL TUO PROSSIMO TATTOO.</div>
+  <div style={{position:'absolute',top:1550,left:96,right:250,fontFamily:heavy,color:C.cream,fontSize:58,lineHeight:1.08,letterSpacing:-2,translate:`${interpolate(f,[0,12],[-100,0],limit)}px 0`,background:C.black,padding:'20px 24px',rotate:'-2deg'}}><span style={{fontSize:39,letterSpacing:2}}>SCEGLI IL TUO</span><br/>PROSSIMO TATTOO</div>
   <svg width="1080" height="1920" style={{position:'absolute',inset:0}}>
    <path d="M160 500L115 460M150 560L90 560M170 620L120 655M900 500L945 460M930 570L995 570M910 640L960 680" fill="none" stroke={C.yellow} strokeWidth={17} strokeLinecap="square" opacity={interpolate(f,[.85*fps,1.08*fps],[0,1],limit)} strokeDasharray="70" strokeDashoffset={interpolate(f,[.85*fps,1.15*fps],[70,0],limit)}/>
    <path d="M95 1500v-95h85M985 1500v-95h-85" fill="none" stroke={C.red} strokeWidth={10} style={{scale:ink(f,fps),transformOrigin:'540px 1450px'}}/>
@@ -64,7 +65,7 @@ const HookAccents:React.FC=()=>{
 const BlackFridayAccent:React.FC=()=>{
  const f=useCurrentFrame();const {fps,durationInFrames:n}=useVideoConfig();
  return <AbsoluteFill style={{opacity:out(f,n)}}>
-  <div style={{position:'absolute',top:1535,left:90,right:130,color:C.black,background:C.yellow,padding:'18px 22px',fontFamily:heavy,fontSize:58,rotate:'-2deg',translate:`${interpolate(f,[0,12],[950,0],limit)}px 0`}}>UN GIORNO. LA TUA IDEA.</div>
+  <div style={{position:'absolute',top:1535,left:90,right:130,color:C.black,background:C.yellow,padding:'18px 22px',fontFamily:heavy,fontSize:58,rotate:'-2deg',translate:`${interpolate(f,[0,12],[950,0],limit)}px 0`}}>NON PERDERE L'EVENTO!</div>
   <svg width="1080" height="1920" style={{position:'absolute',inset:0}}><path d="M150 350v-55h80M920 350v-55h-80M150 670v55h80M920 670v55h-80" fill="none" stroke={C.red} strokeWidth={12} style={{scale:ink(f,fps),transformOrigin:'540px 500px'}}/></svg>
  </AbsoluteFill>;
 };
@@ -79,7 +80,7 @@ const BehindLettering:React.FC<{text:string;sub?:string;color?:string}>=({text,s
 
 const BehindMask:React.FC<{children:React.ReactNode}>=({children})=>{
  const f=useCurrentFrame();const {fps}=useVideoConfig();const t=f/fps;
- if(!((t>=6&&t<14.5)||(t>=21&&t<29)))return null;
+ if(!((t>=8.98&&t<11.18)||(t>=11.6&&t<14.4)))return null;
  const mask=staticFile(`nuovo03/inverse-masks/${String(Math.floor(f/2)).padStart(4,'0')}.png`);
  return <AbsoluteFill style={{height:1300,maskImage:`url("${mask}")`,WebkitMaskImage:`url("${mask}")`,maskSize:'100% 100%',WebkitMaskSize:'100% 100%'}}><Img src={mask} style={{position:'absolute',width:1,height:1,opacity:0}}/>{children}</AbsoluteFill>;
 };
@@ -146,8 +147,14 @@ const BioBooking:React.FC=()=>{
 const SaveDate:React.FC=()=>{
  const f=useCurrentFrame();const {fps,durationInFrames:n}=useVideoConfig();
  return <AbsoluteFill style={{opacity:out(f,n)}}>
-  <div style={{position:'absolute',left:90,top:180,color:C.cream,fontFamily:heavy,fontSize:91,lineHeight:1.02,letterSpacing:-4,textShadow:'4px 5px 0 #111',translate:`${interpolate(f,[0,12],[-120,0],limit)}px 0`}}>SALVA<br/><span style={{color:C.yellow}}>LA DATA.</span></div>
-  <svg width={1080} height={1920} style={{position:'absolute',inset:0}}><path d="M860 1570q70 70-60 130l22-68m-22 68l75-4" fill="none" stroke={C.yellow} strokeWidth={14} strokeLinecap="round" strokeDasharray="400" strokeDashoffset={interpolate(f,[0,fps*.6],[400,0],limit)}/></svg>
+  <div style={{position:'absolute',left:90,right:130,top:1650,display:'flex',alignItems:'center',gap:22,padding:'18px 23px',background:C.red,border:`5px solid ${C.black}`,boxShadow:`10px 10px 0 ${C.yellow}`,rotate:`${interpolate(f,[0,18],[-7,-1.5],limit)}deg`,scale:ink(f,fps),transformOrigin:'50% 100%'}}>
+   <svg width={102} height={110} viewBox="0 0 102 110" style={{flexShrink:0}}>
+    <rect x="6" y="19" width="90" height="82" rx="12" fill={C.yellow} stroke={C.black} strokeWidth="6"/>
+    <path d="M7 43H95M28 8V29M74 8V29" fill="none" stroke={C.black} strokeWidth="7" strokeLinecap="round"/>
+    <path d="M28 69L44 84L74 54" fill="none" stroke={C.black} strokeWidth="8" strokeLinecap="round" strokeLinejoin="round" pathLength={1} strokeDasharray={1} strokeDashoffset={interpolate(f,[9,31],[1,0],limit)}/>
+   </svg>
+   <div style={{fontFamily:heavy,fontSize:72,lineHeight:1.05,letterSpacing:-4,color:C.cream,whiteSpace:'nowrap'}}>SALVA <span style={{color:C.yellow}}>LA DATA.</span></div>
+  </div>
  </AbsoluteFill>;
 };
 
@@ -177,7 +184,6 @@ export const TattooCommercial:React.FC=()=>{
     <BehindMask>
      <Sequence name="Data dietro la figura" from={Math.round(8.98*fps)} durationInFrames={Math.round(2.2*fps)} premountFor={fps}><BehindLettering text="29.11" sub="GIUGLIANO IN CAMPANIA"/></Sequence>
      <Sequence name="Stencil dietro la figura" from={Math.round(11.6*fps)} durationInFrames={Math.round(2.8*fps)} premountFor={fps}><BehindLettering text="FLASH." color={C.cream}/></Sequence>
-     <Sequence name="Condivisione dietro la figura" from={Math.round(23.5*fps)} durationInFrames={Math.round(2.05*fps)} premountFor={fps}><BehindLettering text="INSIEME." color={C.yellow}/></Sequence>
     </BehindMask>
    </AbsoluteFill>
    <CommercialCaptions words={captions}/>
@@ -185,13 +191,20 @@ export const TattooCommercial:React.FC=()=>{
    <Sequence name="Lancio Black Friday: cornici e payoff" from={Math.round(3.28*fps)} durationInFrames={Math.round(1.4*fps)} premountFor={fps}><BlackFridayAccent/></Sequence>
    <Sequence name="Catalogo: stencil speciali" from={Math.round(11.5*fps)} durationInFrames={Math.round(3.33*fps)} premountFor={fps}><StencilDeck/></Sequence>
    <Sequence name="Offerte: evidenzia le scritte esistenti" from={Math.round(15*fps)} durationInFrames={Math.round(3.78*fps)} premountFor={fps}><OfferAccents/></Sequence>
-   <Sequence name="Beneficio 01: piccolo tatuaggio" from={Math.round(18.9*fps)} durationInFrames={Math.round(2.43*fps)} premountFor={fps}><BenefitCallout number="01" text={'PICCOLO TATTOO.\nGRANDE VOGLIA.'}/></Sequence>
+   <Sequence name="Beneficio 01: piccolo tatuaggio" from={Math.round(18.9*fps)} durationInFrames={Math.round(2.43*fps)} premountFor={fps}><BenefitCallout number="01" text={'AGGIUNGI UN\nPICCOLO TATUAGGIO'}/></Sequence>
    <Sequence name="Beneficio 02: collezione" from={Math.round(21.44*fps)} durationInFrames={Math.round(1.85*fps)} premountFor={fps}><BenefitCallout number="02" text={'UN NUOVO\nDETTAGLIO.'} accent={C.blue}/></Sequence>
    <Sequence name="Beneficio 03: insieme" from={Math.round(23.36*fps)} durationInFrames={Math.round(2.24*fps)} premountFor={fps}><BenefitCallout number="03" text={'UN’ESPERIENZA\nDA CONDIVIDERE.'} accent={C.red}/></Sequence>
    <Sequence name="Disponibilità limitata" from={Math.round(25.72*fps)} durationInFrames={Math.round(2.16*fps)} premountFor={fps}><LimitedFlash/></Sequence>
    <Sequence name="Prenotazione dal link in bio" from={Math.round(29.1*fps)} durationInFrames={Math.round(3.08*fps)} premountFor={fps}><BioBooking/></Sequence>
    <Sequence name="Salva la data: preserva data e ora originali" from={Math.round(32.3*fps)} durationInFrames={Math.round(2.98*fps)} premountFor={fps}><SaveDate/></Sequence>
    <Sequence name="Finale: valorizza il commento Black Friday già presente" from={Math.round(35.47*fps)} durationInFrames={2319-Math.round(35.47*fps)} premountFor={fps}><CommentFinal/></Sequence>
+   <Sequence name="Flash illustrato: cuore old school nell’hook" from={Math.round(.4*fps)} durationInFrames={Math.round(2.65*fps)} premountFor={fps}><TattooFlash motif="heart" left={850} top={1530} size={155} angle={9}/></Sequence>
+   <Sequence name="Macchinetta: traccia d’inchiostro" from={Math.round(6.4*fps)} durationInFrames={Math.round(2.45*fps)} premountFor={fps}><TattooNeedle left={765} top={1570} size={220}/></Sequence>
+   <Sequence name="Flash illustrato: farfalla stencil" from={Math.round(11.62*fps)} durationInFrames={Math.round(3*fps)} premountFor={fps}><TattooFlash motif="butterfly" left={65} top={940} size={190} angle={-12}/></Sequence>
+   <Sequence name="Flash illustrato: rosa tattoo" from={Math.round(11.9*fps)} durationInFrames={Math.round(2.72*fps)} premountFor={fps}><TattooFlash motif="rose" left={850} top={930} size={165} angle={12}/></Sequence>
+   <Sequence name="Ago e dettaglio: un nuovo piccolo tatuaggio" from={Math.round(19*fps)} durationInFrames={Math.round(2.24*fps)} premountFor={fps}><TattooFlash motif="spark" left={835} top={950} size={175} angle={5}/></Sequence>
+   <Sequence name="Flash illustrato: cuore trafitto" from={Math.round(21.48*fps)} durationInFrames={Math.round(1.78*fps)} premountFor={fps}><TattooFlash motif="heart" left={76} top={880} size={160} angle={-10}/></Sequence>
+   <Sequence name="Flash illustrato: due cuori senza scritte" from={Math.round(23.55*fps)} durationInFrames={Math.round(1.95*fps)} premountFor={fps}><TattooFlash motif="duo" left={825} top={930} size={190} angle={8}/></Sequence>
    <Sequence name="Transizione ingresso studio" from={Math.round(3.12*fps)} durationInFrames={12} premountFor={fps}><EdgeFlash/></Sequence>
    <Sequence name="Transizione data evento" from={Math.round(6.18*fps)} durationInFrames={16} premountFor={fps}><EdgeFlash color={C.yellow}/></Sequence>
    <Sequence name="Transizione stencil" from={Math.round(11.35*fps)} durationInFrames={16} premountFor={fps}><EdgeFlash color={C.blue}/></Sequence>

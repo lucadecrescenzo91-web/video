@@ -21,13 +21,13 @@
   ],
   "format": {
     "duration": "38.656000",
-    "size": "53075863"
+    "size": "51005521"
   },
   "audio_comparison": {
     "offset_ms": 0.0,
-    "correlation": 0.9993994633412961,
-    "voice_gain_estimate": 0.897753936894229,
+    "correlation": 0.9993980481235074,
+    "voice_gain_estimate": 0.8977582611539943,
     "compared_seconds": 38.6365625
   },
-  "sha256": "0dd992fab4744ea2aae7baf527475cdcfbcdb5d6c7777b3ada1d736a50cb0edc"
+  "sha256": "413b5fbd01da41fe406027695d49ace49310c880a5b4d7f2dc3099e75c13a63b"
 }

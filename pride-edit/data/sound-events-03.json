@@ -5,6 +5,11 @@
     "gain": 0.07
   },
   {
+    "time": 0.56,
+    "sound": "snap",
+    "gain": 0.03
+  },
+  {
     "time": 1.1,
     "sound": "slam",
     "gain": 0.15
@@ -35,6 +40,11 @@
     "gain": 0.09
   },
   {
+    "time": 6.78,
+    "sound": "needle",
+    "gain": 0.025
+  },
+  {
     "time": 7.18,
     "sound": "snap",
     "gain": 0.042
@@ -58,6 +68,11 @@
     "time": 11.62,
     "sound": "slam",
     "gain": 0.08
+  },
+  {
+    "time": 11.88,
+    "sound": "snap",
+    "gain": 0.03
   },
   {
     "time": 12.2,
@@ -130,6 +145,11 @@
     "gain": 0.08
   },
   {
+    "time": 23.82,
+    "sound": "snap",
+    "gain": 0.03
+  },
+  {
     "time": 24.0,
     "sound": "snap",
     "gain": 0.042
@@ -188,6 +208,11 @@
     "time": 32.32,
     "sound": "stamp",
     "gain": 0.055
+  },
+  {
+    "time": 32.68,
+    "sound": "snap",
+    "gain": 0.03
   },
   {
     "time": 33.44,
