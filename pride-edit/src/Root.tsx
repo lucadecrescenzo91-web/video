@@ -3,6 +3,7 @@ import {Video} from '@remotion/media';
 import {AbsoluteFill,Composition,staticFile,useVideoConfig} from 'remotion';
 import {Fonts} from './Art';
 import {StyleCheck} from './StyleCheck';
+import {TattooCommercial,EdgeFlash,StencilDeck,BenefitCallout} from './TattooCommercial';
 import {PrideEdit} from './PrideEdit';
 import {IpocrisiaEdit} from './IpocrisiaEdit';
 import {CaseCard} from './CaseCard';
@@ -19,6 +20,11 @@ const IpocrisiaOriginal:React.FC=()=>{
 };
 
 export const RemotionRoot:React.FC=()=> <>
+ <Composition id="TattooCommercial" component={TattooCommercial} width={1080} height={1920} fps={60} durationInFrames={2319}/>
+ <Composition id="TattooEdgeFlash" component={EdgeFlash} width={1080} height={1920} fps={60} durationInFrames={16}/>
+ <Composition id="TattooStencilDeck" component={StencilDeck} width={1080} height={1920} fps={60} durationInFrames={200}/>
+ <Composition id="TattooBenefit" component={BenefitCallout} width={1080} height={1920} fps={60} durationInFrames={145} defaultProps={{number:'01',text:'PICCOLO TATTOO.\nGRANDE VOGLIA.'}}/>
+
  <Composition id="IpocrisiaEdit" component={IpocrisiaEdit} width={1080} height={1920} fps={60} durationInFrames={7715}/>
  <Composition id="IpocrisiaOriginal" component={IpocrisiaOriginal} width={1080} height={1920} fps={60} durationInFrames={7715}/>
  <Composition id="CaseHaggard" component={CaseCard} width={1080} height={1920} fps={60} durationInFrames={264} defaultProps={{number:'01',name:'TED HAGGARD',role:'PASTORE STATUNITENSE'}}/>

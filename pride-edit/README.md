@@ -73,3 +73,46 @@ npx remotion render src/index.ts IpocrisiaEdit out/video-ipocrisia-pride.mp4 --b
 ```
 
 Il testo fornito è allineato localmente con `scripts/align_from_text.py`, 390 parole. I nomi, le date e le schede derivano dal parlato; non sono stati aggiunti ritratti di repertorio o nuove affermazioni fattuali. La precisazione finale contro gli stereotipi e il rispetto dei tempi del coming out sono mantenuti e sottolineati.
+
+## Ashura Tattoo — Black Friday commerciale
+
+`TattooCommercial`: 1080×1920, 60 fps, 2319 fotogrammi (38,65 s).
+Sorgente: asset `video-da-editare.mov` della release `video-editare`, SHA-256
+`ea6ab9f8e49acf8105420eedb727e0716c0bc87e545b6405c98c72953aec85a6`.
+
+Montaggio commerciale originale con zoom sul parlato, accenti di colore,
+transizioni geometriche sui bordi, stencil tipografici, tre titoli scontornati
+dietro la figura e sottotitoli dinamici verificati sul testo fornito.
+Le scritte già incorporate nel MOV sono conservate e lasciate leggibili.
+L’audio e la durata del sorgente sono integrali, senza tagli o variazioni di
+velocità; voce a 0,9 e 47 effetti sonori originali aggiunti, senza musica aggiunta.
+Il breve inciso sonoro presente nel sorgente tra le offerte e il paragrafo
+successivo rimane integralmente nell’audio e non viene trascritto per congettura.
+
+- `src/TattooCommercial.tsx`: timeline ed elementi grafici indipendenti.
+- `src/captions-03.json`: testo e timestamp relativi alla sorgente.
+- `data/script-03-it.txt`: copione fornito dall’utente.
+- `scripts/commercial_sfx.py`: sintesi degli effetti sonori.
+- `data/sound-events-03.json`: cue e livelli degli effetti.
+- `public/fonts/commercial`: Archivo Black, licenza OFL inclusa.
+- `TattooEdgeFlash`, `TattooStencilDeck`, `TattooBenefit`: composizioni riutilizzabili.
+
+Media di lavoro in `public/nuovo03` (ignorati da Git). Preparazione: originale
+scalato a 1080×1920, H.264 CRF 18, audio AAC copiato e nessun taglio.
+Maschere inverse RVM a 30 fps limitate ai primi 1300 pixel verticali,
+nei soli intervalli 6–14,5 e 21–29 secondi. Modello pubblico ufficiale
+`PeterL1n/RobustVideoMatting`, `rvm_mobilenetv3_fp32.onnx`.
+
+```bash
+python scripts/commercial_sfx.py
+npm run lint
+npx remotion render src/index.ts TattooCommercial out/ashura-black-friday.mp4 --browser-executable=/usr/bin/chromium --codec=h264 --crf=18 --pixel-format=yuv420p --jpeg-quality=95 --concurrency=2
+```
+
+Consegna: `video-ashura-black-friday.mp4` nella radice del repository.
+
+Per rigenerare le maschere selettive dopo aver preparato `public/nuovo03/source.mp4`:
+
+```bash
+python scripts/matte_commercial.py --model /path/to/rvm_mobilenetv3_fp32.onnx
+```
