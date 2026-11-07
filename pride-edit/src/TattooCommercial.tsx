@@ -107,7 +107,7 @@ const OfferAccents:React.FC=()=>{
    <path d="M175 230v-70h90M920 230v-70h-90" fill="none" stroke={C.yellow} strokeWidth={12}/>
    <path d="M140 580h800" fill="none" stroke={C.yellow} strokeWidth={12} strokeDasharray="800" strokeDashoffset={interpolate(f,[0,.28*fps],[800,0],limit)}/>
   </svg>
-  <div style={{position:'absolute',top:1510,left:90,right:130,background:C.black,color:C.cream,padding:'24px 30px',fontFamily:heavy,fontSize:73,letterSpacing:-4,rotate:'-2deg',scale:ink(f,fps)}}>{f<1.62*fps?'SCEGLI IL TUO FLASH.':'MEGLIO IN DUE.'}<span style={{color:C.yellow,fontFamily:'Arial, sans-serif'}}> ↗</span></div>
+  <div style={{position:'absolute',top:1510,left:90,right:130,background:C.black,color:C.cream,padding:'24px 30px',fontFamily:heavy,fontSize:73,letterSpacing:-4,rotate:'-2deg',scale:ink(f,fps)}}>{f<1.62*fps?'SCEGLI IL TUO FLASH.':'MEGLIO IN DUE.'}<svg width={55} height={55} viewBox="0 0 55 55" style={{marginLeft:15,verticalAlign:'middle',color:C.yellow}}><path d="M8 46L45 9M12 9H45V42" fill="none" stroke="currentColor" strokeWidth={6}/></svg></div>
  </AbsoluteFill>;
 };
 
@@ -137,7 +137,7 @@ const BioBooking:React.FC=()=>{
  return <AbsoluteFill style={{opacity:out(f,n)}}>
   <div style={{position:'absolute',left:94,right:134,top:1490,color:C.black,background:C.yellow,padding:'22px 28px',translate:`0 ${interpolate(f,[0,14],[120,0],limit)}px`,boxShadow:`10px 10px 0 ${C.black}`}}>
    <div style={{fontFamily:body,fontSize:39,fontWeight:800,letterSpacing:5}}>NON ASPETTARE.</div>
-   <div style={{fontFamily:heavy,fontSize:83,lineHeight:1.03,letterSpacing:-4}}>PRENOTA <span style={{display:'inline-block',fontFamily:'Arial, sans-serif',rotate:`${interpolate(f,[0,fps],[0,-45],limit)}deg`}}>↗</span></div>
+   <div style={{fontFamily:heavy,fontSize:83,lineHeight:1.03,letterSpacing:-4}}>PRENOTA <svg width={66} height={66} viewBox="0 0 66 66" style={{verticalAlign:'middle',rotate:`${interpolate(f,[0,fps],[0,-20],limit)}deg`}}><path d="M10 55L55 10M15 10H55V50" fill="none" stroke="currentColor" strokeWidth={7}/></svg></div>
    <div style={{fontFamily:body,fontSize:54,fontWeight:800,marginTop:8}}>DAL LINK IN BIO</div>
   </div>
  </AbsoluteFill>;
