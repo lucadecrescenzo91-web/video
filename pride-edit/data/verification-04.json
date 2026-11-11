@@ -1,0 +1,47 @@
+{
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+    {
+      "codec_name": "h264",
+      "width": 1080,
+      "height": 1920,
+      "r_frame_rate": "60/1",
+      "nb_frames": "1877",
+      "side_data_list": [
+        {}
+      ]
+    },
+    {
+      "codec_name": "aac",
+      "sample_rate": "48000",
+      "r_frame_rate": "0/0",
+      "nb_frames": "1469"
+    }
+  ],
+  "format": {
+    "duration": "31.296000",
+    "size": "36107270"
+  },
+  "audio_comparison": {
+    "offset_ms": 0.0,
+    "correlation": 0.997854290433338,
+    "voice_gain_estimate": 0.8966267864685691,
+    "compared_seconds": 31.2758125
+  },
+  "sha256": "ab0a9b6e47169d964d05ad4d57976fc7551661751880765ca69ec42033004a88",
+  "source_sha256": "79f258fd489e36dbdc297f491ba47075bd38af09badb192e03824d1c13cf2d92",
+  "pipeline": {
+    "hyperframes": "0.9.34",
+    "remotion": "4.0.538",
+    "transparent_overlay_frames": 1877,
+    "overlay_format": "RGBA PNG",
+    "hyperframes_check": "passed; no errors; intentional overlay-only warnings documented in DESIGN.md",
+    "rendered_audio_peak_dbfs": -0.9
+  },
+  "approved_corrections": [
+    "1 tatuaggio €30, due a €50",
+    "No, non lo sapevo!",
+    "Che figata!"
+  ]
+}

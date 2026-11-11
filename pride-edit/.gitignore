@@ -22,3 +22,12 @@ public/nuovo02/
 
 # Generated media for the religion re-edit.
 public/religione/
+
+# Generated media for the commercial tattoo edit.
+public/nuovo03/
+
+# Generated media for the second Ashura commercial.
+public/nuovo04/
+hyperframes-video2/node_modules/
+hyperframes-video2/.hyperframes/
+hyperframes-video2/renders/

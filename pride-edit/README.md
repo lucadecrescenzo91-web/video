@@ -87,3 +87,104 @@ Media generati e originali sono esclusi da Git e conservati nell’ambiente. Per
 npm run lint
 npx remotion render src/index.ts ReligioneEdit out/video-religione-format.mp4 --browser-executable=/usr/bin/chromium --codec=h264 --crf=18 --pixel-format=yuv420p --jpeg-quality=95 --concurrency=2
 ```
+
+## Ashura Tattoo — Black Friday commerciale
+
+`TattooCommercial`: 1080×1920, 60 fps, 2319 fotogrammi (38,65 s).
+Sorgente: asset `video-da-editare.mov` della release `video-editare`, SHA-256
+`ea6ab9f8e49acf8105420eedb727e0716c0bc87e545b6405c98c72953aec85a6`.
+
+Montaggio commerciale originale con zoom sul parlato, accenti di colore,
+transizioni geometriche sui bordi, stencil tipografici, due titoli scontornati
+dietro la figura e sottotitoli dinamici verificati sul testo fornito.
+Le scritte già incorporate nel MOV sono conservate e lasciate leggibili.
+L’audio e la durata del sorgente sono integrali, senza tagli o variazioni di
+velocità; voce a 0,9 e 52 effetti sonori originali aggiunti, senza musica aggiunta.
+Il breve inciso sonoro presente nel sorgente tra le offerte e il paragrafo
+successivo rimane integralmente nell’audio e non viene trascritto per congettura.
+
+- `src/TattooCommercial.tsx`: timeline ed elementi grafici indipendenti.
+- `src/captions-03.json`: testo e timestamp relativi alla sorgente.
+- `data/script-03-it.txt`: copione fornito dall’utente.
+- `scripts/commercial_sfx.py`: sintesi degli effetti sonori.
+- `data/sound-events-03.json`: cue e livelli degli effetti.
+- `public/fonts/commercial`: Archivo Black, licenza OFL inclusa.
+- `TattooEdgeFlash`, `TattooStencilDeck`, `TattooBenefit`: composizioni riutilizzabili.
+
+Media di lavoro in `public/nuovo03` (ignorati da Git). Preparazione: originale
+scalato a 1080×1920, H.264 CRF 18, audio AAC copiato e nessun taglio.
+Maschere inverse RVM a 30 fps limitate ai primi 1300 pixel verticali,
+nei soli intervalli 6–14,5 e 21–29 secondi. Modello pubblico ufficiale
+`PeterL1n/RobustVideoMatting`, `rvm_mobilenetv3_fp32.onnx`.
+
+```bash
+python scripts/commercial_sfx.py
+npm run lint
+npx remotion render src/index.ts TattooCommercial out/ashura-black-friday.mp4 --browser-executable=/usr/bin/chromium --codec=h264 --crf=18 --pixel-format=yuv420p --jpeg-quality=95 --concurrency=2
+```
+
+Consegna: `video-ashura-black-friday.mp4` nella radice del repository.
+
+Per rigenerare le maschere selettive dopo aver preparato `public/nuovo03/source.mp4`:
+
+```bash
+python scripts/matte_commercial.py --model /path/to/rvm_mobilenetv3_fp32.onnx
+```
+
+
+Revisione commerciale: hook «SCEGLI IL TUO PROSSIMO TATTOO», lancio
+«NON PERDERE L’EVENTO!» e beneficio 01 «AGGIUNGI UN PICCOLO TATUAGGIO».
+La scritta «INSIEME.» è stata rimossa. «SALVA LA DATA.» è ora in basso,
+su un cartello rosso e giallo con calendario e spunta animati, lasciando visibili
+la data e gli orari del sorgente. `src/TattooGraphics.tsx` contiene illustrazioni
+vettoriali originali animate: macchinetta con tratto d’inchiostro, cuore con
+pugnale, farfalla, rosa, stelle e coppia di cuori. Sono elementi decorativi,
+non una riproduzione del catalogo effettivo dell’evento.
+
+## Ashura video 2 — scegli il catalogo
+
+`TattooCatalogEdit`, 1080×1920, 60 fps, 1877 fotogrammi (31,283 s).
+Originale: asset MOV della release GitHub `video2`, SHA-256
+`79f258fd489e36dbdc297f491ba47075bd38af09badb192e03824d1c13cf2d92`.
+
+Montaggio realizzato con HyperFrames 0.9.34 e Remotion 4.0.538. HyperFrames
+contiene i titoli approvati, le illustrazioni flash e le transizioni sui bordi;
+Remotion compone questo livello trasparente con il video originale integrale,
+zoom, sottotitoli e 31 effetti sonori originali. Nessuna musica aggiunta.
+Le battute dialettali restano nel parlato originale e sono sottotitolate con
+le traduzioni approvate «No, non lo sapevo!» e «Che figata!». L’offerta nei
+sottotitoli è esattamente «1 tatuaggio €30, due a €50».
+
+- `src/TattooCatalogEdit.tsx`: video, zoom, sottotitoli e compositing.
+- `src/captions-04.json`: parole e timestamp approvati, relativi al sorgente.
+- `data/script-04-it.txt`: testo approvato.
+- `data/sound-events-04.json`: cue degli effetti.
+- `hyperframes-video2/index.html`: composizione originale HTML/GSAP.
+- `hyperframes-video2/DESIGN.md`: identità visiva e note di compositing.
+
+I media generati sono in `public/nuovo04` (ignorati da Git). Per ricreare il
+livello grafico dopo `npm run check` nella cartella HyperFrames:
+
+```bash
+HYPERFRAMES_BROWSER_PATH=/usr/bin/chromium npx hyperframes@0.9.34 render --format png-sequence --fps 60 --quality high --workers 1 --no-low-memory-mode --output ../public/nuovo04/overlays --strict
+```
+
+L’anteprima HyperFrames si apre con `npx hyperframes preview --background` e
+l’URL Studio `http://localhost:3002/#project/hyperframes-video2`. La composizione
+è intenzionalmente trasparente e senza audio: filmato, voce e suoni sono
+aggiunti da Remotion. Per esportare il risultato completo:
+
+```bash
+python scripts/sound_design.py --events data/sound-events-04.json --duration 31.283333 --out public/nuovo04/sfx
+npm run lint
+npx remotion render src/index.ts TattooCatalogEdit out/ashura-black-friday-2.mp4 --browser-executable=/usr/bin/chromium --codec=h264 --crf=18 --pixel-format=yuv420p --jpeg-quality=95 --concurrency=2
+```
+
+Consegna: `video-ashura-black-friday-2.mp4` nella radice del repository. Il primo
+montaggio e le composizioni precedenti restano disponibili.
+
+La cattura HyperFrames di questo ambiente usa un singolo worker Chromium e
+transizioni SVG leggere, per evitare il blocco della cattura parallela su
+software GL. Sono stati verificati tutti i 1877 PNG RGBA. I fotogrammi esportati
+sono numerati da `frame_000001.png`; Remotion associa il fotogramma 0 al PNG 1.
+La voce è a 0,9 e il livello effetti a 0,65 per lasciare spazio al parlato.
