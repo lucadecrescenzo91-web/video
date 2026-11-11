@@ -1,0 +1,26 @@
+{
+  "file": "video-religione-format.mp4",
+  "bytes": 182623251,
+  "sha256": "c57802290cccbed881664c27304470534c12507685e2242d8dc0e474bf7c22ac",
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "frames": 9901,
+  "videoDuration": 165.016667,
+  "formatDuration": 165.035,
+  "fullDecode": "passed_ffmpeg_xerror",
+  "audio": {
+    "rate": 48000,
+    "samplesCompared": 7921664,
+    "peak": 0.7328547239303589,
+    "clippedSamples": 0,
+    "correlation": 0.9999565546412847,
+    "rmsDeltaDb": -0.014721911400556564
+  },
+  "visualChecks": "HyperFrames master and combined stills reviewed; actual export ending at155s reviewed",
+  "editorial": "Original hook, central relocated CTA, thesis and all biblical/ecclesial references retained; approved graphic copy; redundant opening/pronunciation/rhetorical repetition removed",
+  "animatedInserts": 5,
+  "insertSeconds": 50,
+  "soundAccents": 61,
+  "music": false
+}
