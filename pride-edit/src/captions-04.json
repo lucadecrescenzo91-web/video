@@ -1,0 +1,611 @@
+[
+  {
+    "text": " E",
+    "startMs": 0,
+    "endMs": 100,
+    "timestampMs": 50,
+    "confidence": 0.3451734781265259
+  },
+  {
+    "text": " tu",
+    "startMs": 100,
+    "endMs": 260,
+    "timestampMs": 180,
+    "confidence": 0.9449860453605652
+  },
+  {
+    "text": " lo",
+    "startMs": 260,
+    "endMs": 440,
+    "timestampMs": 350,
+    "confidence": 0.8472148180007935
+  },
+  {
+    "text": " sapevi",
+    "startMs": 440,
+    "endMs": 800,
+    "timestampMs": 620,
+    "confidence": 0.8688059250513712
+  },
+  {
+    "text": " che",
+    "startMs": 800,
+    "endMs": 980,
+    "timestampMs": 890,
+    "confidence": 0.7286593914031982
+  },
+  {
+    "text": " qui",
+    "startMs": 980,
+    "endMs": 1180,
+    "timestampMs": 1080,
+    "confidence": 0.9739025235176086
+  },
+  {
+    "text": " da",
+    "startMs": 1180,
+    "endMs": 1320,
+    "timestampMs": 1250,
+    "confidence": 0.7539103627204895
+  },
+  {
+    "text": " Ashura",
+    "startMs": 1320,
+    "endMs": 1620,
+    "timestampMs": 1470,
+    "confidence": 0.5643339455127716
+  },
+  {
+    "text": " Tattoo",
+    "startMs": 1620,
+    "endMs": 1980,
+    "timestampMs": 1800,
+    "confidence": 0.8067273497581482
+  },
+  {
+    "text": " Studio",
+    "startMs": 1980,
+    "endMs": 2360,
+    "timestampMs": 2170,
+    "confidence": 0.8253939151763916
+  },
+  {
+    "text": " è",
+    "startMs": 2360,
+    "endMs": 2480,
+    "timestampMs": 2420,
+    "confidence": 0.8852343559265137
+  },
+  {
+    "text": " possibile",
+    "startMs": 2480,
+    "endMs": 2880,
+    "timestampMs": 2680,
+    "confidence": 0.9881019592285156
+  },
+  {
+    "text": " farsi",
+    "startMs": 2880,
+    "endMs": 3240,
+    "timestampMs": 3060,
+    "confidence": 0.8701528608798981
+  },
+  {
+    "text": " un",
+    "startMs": 3240,
+    "endMs": 3380,
+    "timestampMs": 3310,
+    "confidence": 0.9941076040267944
+  },
+  {
+    "text": " tatuaggio",
+    "startMs": 3380,
+    "endMs": 3760,
+    "timestampMs": 3570,
+    "confidence": 0.9460832079251608
+  },
+  {
+    "text": " a",
+    "startMs": 3760,
+    "endMs": 3880,
+    "timestampMs": 3820,
+    "confidence": 0.6826615929603577
+  },
+  {
+    "text": " soli",
+    "startMs": 3880,
+    "endMs": 4100,
+    "timestampMs": 3990,
+    "confidence": 0.7776830196380615
+  },
+  {
+    "text": " 30",
+    "startMs": 4100,
+    "endMs": 4440,
+    "timestampMs": 4270,
+    "confidence": null
+  },
+  {
+    "text": " euro?",
+    "startMs": 4440,
+    "endMs": 4720,
+    "timestampMs": 4580,
+    "confidence": 0.8868831396102905
+  },
+  {
+    "text": " No,",
+    "startMs": 4820,
+    "endMs": 5080,
+    "timestampMs": 4950,
+    "confidence": null
+  },
+  {
+    "text": " non",
+    "startMs": 5080,
+    "endMs": 5310,
+    "timestampMs": 5195,
+    "confidence": null
+  },
+  {
+    "text": " lo",
+    "startMs": 5310,
+    "endMs": 5500,
+    "timestampMs": 5405,
+    "confidence": null
+  },
+  {
+    "text": " sapevo!",
+    "startMs": 5500,
+    "endMs": 5880,
+    "timestampMs": 5690,
+    "confidence": null
+  },
+  {
+    "text": " E",
+    "startMs": 6000,
+    "endMs": 6060,
+    "timestampMs": 6030,
+    "confidence": null
+  },
+  {
+    "text": " il",
+    "startMs": 6120,
+    "endMs": 6160,
+    "timestampMs": 6140,
+    "confidence": 0.6871488690376282
+  },
+  {
+    "text": " catalogo",
+    "startMs": 6160,
+    "endMs": 6640,
+    "timestampMs": 6400,
+    "confidence": null
+  },
+  {
+    "text": " lo",
+    "startMs": 6680,
+    "endMs": 6820,
+    "timestampMs": 6750,
+    "confidence": 0.9821750521659851
+  },
+  {
+    "text": " scegliete",
+    "startMs": 6820,
+    "endMs": 7100,
+    "timestampMs": 6960,
+    "confidence": 0.8300819247961044
+  },
+  {
+    "text": " anche",
+    "startMs": 7100,
+    "endMs": 7300,
+    "timestampMs": 7200,
+    "confidence": 0.9932218790054321
+  },
+  {
+    "text": " voi!",
+    "startMs": 7300,
+    "endMs": 7600,
+    "timestampMs": 7450,
+    "confidence": null
+  },
+  {
+    "text": " Che",
+    "startMs": 7680,
+    "endMs": 8180,
+    "timestampMs": 7930,
+    "confidence": null
+  },
+  {
+    "text": " figata!",
+    "startMs": 8180,
+    "endMs": 8990,
+    "timestampMs": 8585,
+    "confidence": null
+  },
+  {
+    "text": " Per",
+    "startMs": 9180,
+    "endMs": 9200,
+    "timestampMs": 9190,
+    "confidence": 0.9231750965118408
+  },
+  {
+    "text": " l'evento",
+    "startMs": 9200,
+    "endMs": 9600,
+    "timestampMs": 9400,
+    "confidence": 0.9778426289558411
+  },
+  {
+    "text": " di",
+    "startMs": 9600,
+    "endMs": 9740,
+    "timestampMs": 9670,
+    "confidence": 0.9907844066619873
+  },
+  {
+    "text": " domenica",
+    "startMs": 9740,
+    "endMs": 10280,
+    "timestampMs": 10010,
+    "confidence": 0.9634688297907511
+  },
+  {
+    "text": " 29",
+    "startMs": 10380,
+    "endMs": 10800,
+    "timestampMs": 10590,
+    "confidence": null
+  },
+  {
+    "text": " novembre",
+    "startMs": 10800,
+    "endMs": 11360,
+    "timestampMs": 11080,
+    "confidence": 0.8446820080280304
+  },
+  {
+    "text": " stiamo",
+    "startMs": 11360,
+    "endMs": 11740,
+    "timestampMs": 11550,
+    "confidence": 0.8539229929447174
+  },
+  {
+    "text": " preparando",
+    "startMs": 11740,
+    "endMs": 12380,
+    "timestampMs": 12060,
+    "confidence": 0.9969016909599304
+  },
+  {
+    "text": " una",
+    "startMs": 12380,
+    "endMs": 12580,
+    "timestampMs": 12480,
+    "confidence": 0.9887444972991943
+  },
+  {
+    "text": " selezione",
+    "startMs": 12580,
+    "endMs": 13040,
+    "timestampMs": 12810,
+    "confidence": 0.9022728502750397
+  },
+  {
+    "text": " speciale",
+    "startMs": 13040,
+    "endMs": 13740,
+    "timestampMs": 13390,
+    "confidence": 0.9884619414806366
+  },
+  {
+    "text": " di",
+    "startMs": 13740,
+    "endMs": 13840,
+    "timestampMs": 13790,
+    "confidence": 0.9794266223907471
+  },
+  {
+    "text": " tatuaggi",
+    "startMs": 13840,
+    "endMs": 14300,
+    "timestampMs": 14070,
+    "confidence": 0.957673708597819
+  },
+  {
+    "text": " flash.",
+    "startMs": 14300,
+    "endMs": 14740,
+    "timestampMs": 14520,
+    "confidence": 0.6986725926399231
+  },
+  {
+    "text": " Prima",
+    "startMs": 14880,
+    "endMs": 15060,
+    "timestampMs": 14970,
+    "confidence": 0.9588423669338226
+  },
+  {
+    "text": " di",
+    "startMs": 15060,
+    "endMs": 15200,
+    "timestampMs": 15130,
+    "confidence": 0.9982061386108398
+  },
+  {
+    "text": " chiudere",
+    "startMs": 15200,
+    "endMs": 15440,
+    "timestampMs": 15320,
+    "confidence": 0.6347841496268908
+  },
+  {
+    "text": " il",
+    "startMs": 15440,
+    "endMs": 15620,
+    "timestampMs": 15530,
+    "confidence": 0.9083983302116394
+  },
+  {
+    "text": " catalogo",
+    "startMs": 15620,
+    "endMs": 16160,
+    "timestampMs": 15890,
+    "confidence": 0.9832655191421509
+  },
+  {
+    "text": " vogliamo",
+    "startMs": 16160,
+    "endMs": 16340,
+    "timestampMs": 16250,
+    "confidence": 0.8304429948329926
+  },
+  {
+    "text": " sapere",
+    "startMs": 16340,
+    "endMs": 16760,
+    "timestampMs": 16550,
+    "confidence": 0.996075451374054
+  },
+  {
+    "text": " quali",
+    "startMs": 16760,
+    "endMs": 17080,
+    "timestampMs": 16920,
+    "confidence": 0.8540567755699158
+  },
+  {
+    "text": " stencil",
+    "startMs": 17080,
+    "endMs": 17440,
+    "timestampMs": 17260,
+    "confidence": 0.9328298568725586
+  },
+  {
+    "text": " vorreste",
+    "startMs": 17440,
+    "endMs": 18040,
+    "timestampMs": 17740,
+    "confidence": 0.9193734526634216
+  },
+  {
+    "text": " trovare.",
+    "startMs": 18040,
+    "endMs": 18520,
+    "timestampMs": 18280,
+    "confidence": 0.9981640875339508
+  },
+  {
+    "text": " Preferiresti",
+    "startMs": 18740,
+    "endMs": 19300,
+    "timestampMs": 19020,
+    "confidence": 0.7320898373921713
+  },
+  {
+    "text": " questo,",
+    "startMs": 19300,
+    "endMs": 19780,
+    "timestampMs": 19540,
+    "confidence": 0.9142917990684509
+  },
+  {
+    "text": " questo",
+    "startMs": 20040,
+    "endMs": 20460,
+    "timestampMs": 20250,
+    "confidence": 0.9858869314193726
+  },
+  {
+    "text": " oppure",
+    "startMs": 20460,
+    "endMs": 21080,
+    "timestampMs": 20770,
+    "confidence": 0.9408138990402222
+  },
+  {
+    "text": " questo?",
+    "startMs": 21080,
+    "endMs": 21440,
+    "timestampMs": 21260,
+    "confidence": null
+  },
+  {
+    "text": " 1",
+    "startMs": 21540,
+    "endMs": 21720,
+    "timestampMs": 21630,
+    "confidence": null
+  },
+  {
+    "text": " tatuaggio",
+    "startMs": 21720,
+    "endMs": 22320,
+    "timestampMs": 22020,
+    "confidence": null
+  },
+  {
+    "text": " €30,",
+    "startMs": 22360,
+    "endMs": 23060,
+    "timestampMs": 22710,
+    "confidence": null
+  },
+  {
+    "text": " due",
+    "startMs": 23180,
+    "endMs": 23440,
+    "timestampMs": 23310,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 23440,
+    "endMs": 23780,
+    "timestampMs": 23610,
+    "confidence": null
+  },
+  {
+    "text": " €50",
+    "startMs": 23780,
+    "endMs": 24680,
+    "timestampMs": 24230,
+    "confidence": null
+  },
+  {
+    "text": " L'evento",
+    "startMs": 24780,
+    "endMs": 25180,
+    "timestampMs": 24980,
+    "confidence": 0.9821757674217224
+  },
+  {
+    "text": " si",
+    "startMs": 25180,
+    "endMs": 25320,
+    "timestampMs": 25250,
+    "confidence": 0.9960474371910095
+  },
+  {
+    "text": " terrà",
+    "startMs": 25320,
+    "endMs": 25620,
+    "timestampMs": 25470,
+    "confidence": 0.5261072069406509
+  },
+  {
+    "text": " domenica",
+    "startMs": 25620,
+    "endMs": 26260,
+    "timestampMs": 25940,
+    "confidence": 0.9477960467338562
+  },
+  {
+    "text": " 29",
+    "startMs": 26340,
+    "endMs": 26680,
+    "timestampMs": 26510,
+    "confidence": null
+  },
+  {
+    "text": " novembre",
+    "startMs": 26680,
+    "endMs": 27380,
+    "timestampMs": 27030,
+    "confidence": 0.964347779750824
+  },
+  {
+    "text": " dalle",
+    "startMs": 27380,
+    "endMs": 27580,
+    "timestampMs": 27480,
+    "confidence": 0.8409807980060577
+  },
+  {
+    "text": " ore",
+    "startMs": 27580,
+    "endMs": 27760,
+    "timestampMs": 27670,
+    "confidence": 0.9353025555610657
+  },
+  {
+    "text": " 9",
+    "startMs": 27760,
+    "endMs": 28120,
+    "timestampMs": 27940,
+    "confidence": null
+  },
+  {
+    "text": " alle",
+    "startMs": 28120,
+    "endMs": 28440,
+    "timestampMs": 28280,
+    "confidence": 0.9551042318344116
+  },
+  {
+    "text": " ore",
+    "startMs": 28440,
+    "endMs": 28620,
+    "timestampMs": 28530,
+    "confidence": 0.9749794602394104
+  },
+  {
+    "text": " 20.",
+    "startMs": 28620,
+    "endMs": 29160,
+    "timestampMs": 28890,
+    "confidence": null
+  },
+  {
+    "text": " Prenota",
+    "startMs": 29160,
+    "endMs": 29540,
+    "timestampMs": 29350,
+    "confidence": null
+  },
+  {
+    "text": " subito,",
+    "startMs": 29540,
+    "endMs": 30020,
+    "timestampMs": 29780,
+    "confidence": null
+  },
+  {
+    "text": " trovi",
+    "startMs": 30020,
+    "endMs": 30300,
+    "timestampMs": 30160,
+    "confidence": 0.9352055788040161
+  },
+  {
+    "text": " il",
+    "startMs": 30300,
+    "endMs": 30420,
+    "timestampMs": 30360,
+    "confidence": 0.9509007930755615
+  },
+  {
+    "text": " link",
+    "startMs": 30420,
+    "endMs": 30640,
+    "timestampMs": 30530,
+    "confidence": 0.9969269633293152
+  },
+  {
+    "text": " in",
+    "startMs": 30640,
+    "endMs": 30940,
+    "timestampMs": 30790,
+    "confidence": 0.9934701919555664
+  },
+  {
+    "text": " bio.",
+    "startMs": 30940,
+    "endMs": 31120,
+    "timestampMs": 31030,
+    "confidence": 0.9927242398262024
+  }
+]

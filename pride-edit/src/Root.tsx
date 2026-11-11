@@ -3,6 +3,7 @@ import {Video} from '@remotion/media';
 import {AbsoluteFill,Composition,staticFile,useVideoConfig} from 'remotion';
 import {Fonts} from './Art';
 import {StyleCheck} from './StyleCheck';
+import {TattooCatalogEdit} from './TattooCatalogEdit';
 import {TattooFlash,TattooNeedle} from './TattooGraphics';
 import {TattooCommercial,EdgeFlash,StencilDeck,BenefitCallout} from './TattooCommercial';
 import {PrideEdit} from './PrideEdit';
@@ -21,6 +22,7 @@ const IpocrisiaOriginal:React.FC=()=>{
 };
 
 export const RemotionRoot:React.FC=()=> <>
+ <Composition id="TattooCatalogEdit" component={TattooCatalogEdit} width={1080} height={1920} fps={60} durationInFrames={1877}/>
  <Composition id="TattooCommercial" component={TattooCommercial} width={1080} height={1920} fps={60} durationInFrames={2319}/>
  <Composition id="TattooFlashArt" component={TattooFlash} width={1080} height={1920} fps={60} durationInFrames={180} defaultProps={{motif:'butterfly',left:440,top:800,size:260,angle:-8}}/>
  <Composition id="TattooNeedleArt" component={TattooNeedle} width={1080} height={1920} fps={60} durationInFrames={150} defaultProps={{left:420,top:800,size:300}}/>

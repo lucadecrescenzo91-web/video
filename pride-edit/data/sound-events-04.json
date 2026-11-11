@@ -1,0 +1,157 @@
+[
+  {
+    "time": 0.12,
+    "sound": "impact",
+    "gain": 0.16
+  },
+  {
+    "time": 4.1,
+    "sound": "impact",
+    "gain": 0.16
+  },
+  {
+    "time": 4.72,
+    "sound": "sweep",
+    "gain": 0.1
+  },
+  {
+    "time": 5.45,
+    "sound": "pop",
+    "gain": 0.085
+  },
+  {
+    "time": 5.92,
+    "sound": "sweep",
+    "gain": 0.1
+  },
+  {
+    "time": 6.12,
+    "sound": "pop",
+    "gain": 0.085
+  },
+  {
+    "time": 7.52,
+    "sound": "sweep",
+    "gain": 0.1
+  },
+  {
+    "time": 7.9,
+    "sound": "pop",
+    "gain": 0.085
+  },
+  {
+    "time": 9.03,
+    "sound": "sweep",
+    "gain": 0.1
+  },
+  {
+    "time": 9.2,
+    "sound": "impact",
+    "gain": 0.16
+  },
+  {
+    "time": 10.38,
+    "sound": "tick",
+    "gain": 0.06
+  },
+  {
+    "time": 11.8,
+    "sound": "pop",
+    "gain": 0.085
+  },
+  {
+    "time": 14.82,
+    "sound": "sweep",
+    "gain": 0.1
+  },
+  {
+    "time": 14.97,
+    "sound": "pop",
+    "gain": 0.085
+  },
+  {
+    "time": 16.8,
+    "sound": "tick",
+    "gain": 0.06
+  },
+  {
+    "time": 18.53,
+    "sound": "sweep",
+    "gain": 0.1
+  },
+  {
+    "time": 18.7,
+    "sound": "impact",
+    "gain": 0.16
+  },
+  {
+    "time": 19.3,
+    "sound": "pop",
+    "gain": 0.085
+  },
+  {
+    "time": 20.04,
+    "sound": "pop",
+    "gain": 0.085
+  },
+  {
+    "time": 21.08,
+    "sound": "pop",
+    "gain": 0.085
+  },
+  {
+    "time": 21.43,
+    "sound": "sweep",
+    "gain": 0.1
+  },
+  {
+    "time": 22.36,
+    "sound": "impact",
+    "gain": 0.16
+  },
+  {
+    "time": 23.78,
+    "sound": "impact",
+    "gain": 0.16
+  },
+  {
+    "time": 24.63,
+    "sound": "sweep",
+    "gain": 0.1
+  },
+  {
+    "time": 24.82,
+    "sound": "impact",
+    "gain": 0.16
+  },
+  {
+    "time": 26.34,
+    "sound": "tick",
+    "gain": 0.06
+  },
+  {
+    "time": 27.76,
+    "sound": "tick",
+    "gain": 0.06
+  },
+  {
+    "time": 28.62,
+    "sound": "tick",
+    "gain": 0.06
+  },
+  {
+    "time": 28.92,
+    "sound": "sweep",
+    "gain": 0.1
+  },
+  {
+    "time": 29.12,
+    "sound": "pop",
+    "gain": 0.085
+  },
+  {
+    "time": 30.42,
+    "sound": "tick",
+    "gain": 0.06
+  }
+]

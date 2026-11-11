@@ -126,3 +126,51 @@ la data e gli orari del sorgente. `src/TattooGraphics.tsx` contiene illustrazion
 vettoriali originali animate: macchinetta con tratto d’inchiostro, cuore con
 pugnale, farfalla, rosa, stelle e coppia di cuori. Sono elementi decorativi,
 non una riproduzione del catalogo effettivo dell’evento.
+
+## Ashura video 2 — scegli il catalogo
+
+`TattooCatalogEdit`, 1080×1920, 60 fps, 1877 fotogrammi (31,283 s).
+Originale: asset MOV della release GitHub `video2`, SHA-256
+`79f258fd489e36dbdc297f491ba47075bd38af09badb192e03824d1c13cf2d92`.
+
+Montaggio realizzato con HyperFrames 0.9.34 e Remotion 4.0.538. HyperFrames
+contiene i titoli approvati, le illustrazioni flash e le transizioni sui bordi;
+Remotion compone questo livello trasparente con il video originale integrale,
+zoom, sottotitoli e 31 effetti sonori originali. Nessuna musica aggiunta.
+Le battute dialettali restano nel parlato originale e sono sottotitolate con
+le traduzioni approvate «No, non lo sapevo!» e «Che figata!». L’offerta nei
+sottotitoli è esattamente «1 tatuaggio €30, due a €50».
+
+- `src/TattooCatalogEdit.tsx`: video, zoom, sottotitoli e compositing.
+- `src/captions-04.json`: parole e timestamp approvati, relativi al sorgente.
+- `data/script-04-it.txt`: testo approvato.
+- `data/sound-events-04.json`: cue degli effetti.
+- `hyperframes-video2/index.html`: composizione originale HTML/GSAP.
+- `hyperframes-video2/DESIGN.md`: identità visiva e note di compositing.
+
+I media generati sono in `public/nuovo04` (ignorati da Git). Per ricreare il
+livello grafico dopo `npm run check` nella cartella HyperFrames:
+
+```bash
+HYPERFRAMES_BROWSER_PATH=/usr/bin/chromium npx hyperframes@0.9.34 render --format png-sequence --fps 60 --quality high --workers 1 --no-low-memory-mode --output ../public/nuovo04/overlays --strict
+```
+
+L’anteprima HyperFrames si apre con `npx hyperframes preview --background` e
+l’URL Studio `http://localhost:3002/#project/hyperframes-video2`. La composizione
+è intenzionalmente trasparente e senza audio: filmato, voce e suoni sono
+aggiunti da Remotion. Per esportare il risultato completo:
+
+```bash
+python scripts/sound_design.py --events data/sound-events-04.json --duration 31.283333 --out public/nuovo04/sfx
+npm run lint
+npx remotion render src/index.ts TattooCatalogEdit out/ashura-black-friday-2.mp4 --browser-executable=/usr/bin/chromium --codec=h264 --crf=18 --pixel-format=yuv420p --jpeg-quality=95 --concurrency=2
+```
+
+Consegna: `video-ashura-black-friday-2.mp4` nella radice del repository. Il primo
+montaggio e le composizioni precedenti restano disponibili.
+
+La cattura HyperFrames di questo ambiente usa un singolo worker Chromium e
+transizioni SVG leggere, per evitare il blocco della cattura parallela su
+software GL. Sono stati verificati tutti i 1877 PNG RGBA. I fotogrammi esportati
+sono numerati da `frame_000001.png`; Remotion associa il fotogramma 0 al PNG 1.
+La voce è a 0,9 e il livello effetti a 0,65 per lasciare spazio al parlato.
