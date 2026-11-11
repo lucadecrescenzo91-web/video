@@ -1,0 +1,73 @@
+{
+  "status": "approved_texts_preserve_full_argument",
+  "sourceDuration": 177.723991,
+  "frames": 9901,
+  "duration": 165.01666666666668,
+  "segments": [
+    {
+      "sourceStart": 0,
+      "sourceEnd": 4.2,
+      "outputStart": 0.0,
+      "outputEnd": 4.2,
+      "frames": 252,
+      "label": "Hook"
+    },
+    {
+      "sourceStart": 127.708,
+      "sourceEnd": 147.97466666666668,
+      "outputStart": 4.2,
+      "outputEnd": 24.466666666666665,
+      "frames": 1216,
+      "label": "Contesto e documenti ecclesiali"
+    },
+    {
+      "sourceStart": 18.326,
+      "sourceEnd": 34.492666666666665,
+      "outputStart": 24.466666666666665,
+      "outputEnd": 40.63333333333333,
+      "frames": 970,
+      "label": "Corinzi e termini greci"
+    },
+    {
+      "sourceStart": 36.642,
+      "sourceEnd": 69.60866666666666,
+      "outputStart": 40.63333333333333,
+      "outputEnd": 73.6,
+      "frames": 1978,
+      "label": "Argomentazione integrale sui termini"
+    },
+    {
+      "sourceStart": 10.45675,
+      "sourceEnd": 18.323416666666667,
+      "outputStart": 73.6,
+      "outputEnd": 81.46666666666667,
+      "frames": 472,
+      "label": "CTA originale al centro"
+    },
+    {
+      "sourceStart": 69.602,
+      "sourceEnd": 113.53533333333334,
+      "outputStart": 81.46666666666667,
+      "outputEnd": 125.4,
+      "frames": 2636,
+      "label": "Romani 1 e citazione di Romani 2"
+    },
+    {
+      "sourceStart": 117.828,
+      "sourceEnd": 127.71133333333333,
+      "outputStart": 125.4,
+      "outputEnd": 135.28333333333333,
+      "frames": 593,
+      "label": "Lettura dei due capitoli insieme"
+    },
+    {
+      "sourceStart": 147.981,
+      "sourceEnd": 177.71433333333334,
+      "outputStart": 135.28333333333333,
+      "outputEnd": 165.01666666666668,
+      "frames": 1784,
+      "label": "Conclusione originale"
+    }
+  ],
+  "cuts": "Redundant opening invitation, pronunciation aside, repeated trap/judgement explanation. No disputed references removed."
+}

@@ -4,6 +4,7 @@ import {AbsoluteFill,Composition,staticFile,useVideoConfig} from 'remotion';
 import {Fonts} from './Art';
 import {StyleCheck} from './StyleCheck';
 import {PrideEdit} from './PrideEdit';
+import {ReligioneEdit} from './ReligioneEdit';
 import {IpocrisiaEdit} from './IpocrisiaEdit';
 import {CaseCard} from './CaseCard';
 import {DateStamp} from './DateStamp';
@@ -19,6 +20,7 @@ const IpocrisiaOriginal:React.FC=()=>{
 };
 
 export const RemotionRoot:React.FC=()=> <>
+ <Composition id="ReligioneEdit" component={ReligioneEdit} width={1080} height={1920} fps={60} durationInFrames={9901}/>
  <Composition id="IpocrisiaEdit" component={IpocrisiaEdit} width={1080} height={1920} fps={60} durationInFrames={7715}/>
  <Composition id="IpocrisiaOriginal" component={IpocrisiaOriginal} width={1080} height={1920} fps={60} durationInFrames={7715}/>
  <Composition id="CaseHaggard" component={CaseCard} width={1080} height={1920} fps={60} durationInFrames={264} defaultProps={{number:'01',name:'TED HAGGARD',role:'PASTORE STATUNITENSE'}}/>

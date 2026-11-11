@@ -73,3 +73,17 @@ npx remotion render src/index.ts IpocrisiaEdit out/video-ipocrisia-pride.mp4 --b
 ```
 
 Il testo fornito è allineato localmente con `scripts/align_from_text.py`, 390 parole. I nomi, le date e le schede derivano dal parlato; non sono stati aggiunti ritratti di repertorio o nuove affermazioni fattuali. La precisazione finale contro gli stereotipi e il rispetto dei tempi del coming out sono mantenuti e sottolineati.
+
+
+## Religione — nuovo format con HyperFrames
+
+Composizione `ReligioneEdit`, 1080×1920, 60 fps, 9901 fotogrammi, circa 165,02 s. Hook e CTA originali conservati; CTA ricollocata al centro. Le argomentazioni e i riferimenti biblici/ecclesiali restano nel parlato. Tagliati soltanto l’introduzione ridondante, l’inciso sulla pronuncia e una ripetizione retorica; dettagli in `data/religione/final-edl.json`.
+
+Cinque inserti animati HyperFrames sostituiscono temporaneamente il volto, mentre la voce prosegue. Testi approvati in `data/religione/proposed-copy.json`; HTML, GSAP e identità visiva in `../motion-religione`. Il master degli inserti dura 50 s, riutilizzato con cinque trim nella timeline. 61 accenti sonori originali, nessuna musica o voce sintetica. Sottotitoli da quelli già presenti nel video, riconosciuti localmente e corretti negli errori OCR.
+
+Media generati e originali sono esclusi da Git e conservati nell’ambiente. Per riprepararli vedere `data/religione/README.md` e gli script `religione_*.py`. Sorgente: release GitHub `religione`, asset `v26044gc0000da6mo47og65k06hpef60.mp4`.
+
+```bash
+npm run lint
+npx remotion render src/index.ts ReligioneEdit out/video-religione-format.mp4 --browser-executable=/usr/bin/chromium --codec=h264 --crf=18 --pixel-format=yuv420p --jpeg-quality=95 --concurrency=2
+```
